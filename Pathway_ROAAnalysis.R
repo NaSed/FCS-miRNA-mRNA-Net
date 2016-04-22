@@ -6,7 +6,7 @@
 # here also
 
 rm(list=ls())
-setwd("C:/Users/sedaghat/Dropbox/TGCT_miRNA-mRNA Network Analysis/Codes")
+setwd("ENTER PATH")
 cat("\014")
 
 set.seed(123)
@@ -14,9 +14,9 @@ library(KEGGREST)
 library(org.Hs.eg.db)
 library(ggplot2)
 
-Data_path <- "C:/Users/sedaghat/Dropbox/TGCT_miRNA-mRNA Network Analysis/Data/"
-Result_path <- "C:/Users/sedaghat/Dropbox/TGCT_miRNA-mRNA Network Analysis/Results/"
-Figure_path <- "C:/Users/sedaghat/Dropbox/TGCT_miRNA-mRNA Network Analysis/Docs/Figures/"
+Data_path <- "ENTER PATH"
+Result_path <- "ENTER PATH"
+Figure_path <- "ENTER PATH"
 
 #+++++++++++++++++++++++++++++++++++++++++++++++++
 #           Loading gene names and their entrez IDs

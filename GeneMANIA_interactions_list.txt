@@ -1,0 +1,1553 @@
+Gene 1	Gene 2	Weight	Network group	Networks
+RPS3A	EEF1A1	0.1876787511864677	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS29	RPS11	0.1779372119344771	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS28	RPLP1	0.17363696405664086	Co-expression	Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Innocenti-Brown-2011; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPL41	EEF1A1	0.17161467933328822	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS11	RPS19	0.16975087905302644	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPL41	RPS11	0.1693426521960646	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS29	RPL37A	0.1668809336842969	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPL31	RPL12	0.16542501281946898	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPL37A	RPS18	0.16389924380928278	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS16	RPS19	0.16323894378729165	Co-expression	Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS10	RPS19	0.16243509063497186	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Perou-Botstein-1999; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPL31	RPS25	0.1616826462559402	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPL41	RPL37A	0.16102661285549402	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS3A	RPS25	0.1597956686746329	Co-expression	Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Perou-Botstein-1999; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wu-Garvey-2007
+RPS10	RPL13	0.1594871107954532	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPL13	RPS15	0.15916812676005065	Co-expression	Bahr-Bowler-2013; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS29	RPS19	0.15852275863289833	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPL41	RPS29	0.1584882292081602	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS28	RPS16	0.15811328846029937	Co-expression	Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS3A	RPS29	0.15797632094472647	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS3A	RPS10	0.15508579276502132	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Perou-Botstein-1999; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPL12	RPL37A	0.15165203087963164	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Perou-Botstein-1999; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPL13	RPLP0	0.1509034875780344	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS10	RPS11	0.15077097760513425	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS28	RPL12	0.14935927744954824	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS29	EEF1A1	0.14927329448983073	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Boldrick-Relman-2002; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS28	RPS29	0.1491488228784874	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS3A	RPS18	0.14907949860207736	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS16	RPS2	0.14904487901367247	Co-expression	Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS3A	RPL31	0.14898562268354	Co-expression	Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Gysin-McMahon-2012; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wang-Maris-2006; Wu-Garvey-2007
+RPS10	RPS29	0.14867776178289205	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS25	RPS17	0.14863522676751018	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Perou-Botstein-1999; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wu-Garvey-2007
+RPS29	RPLP1	0.14862838364206254	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS28	RPLP0	0.14841800509020686	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPLP0	RPS19	0.14785273000597954	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPL13	RPL8	0.14770106505602598	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPL18	RPL8	0.14739461615681648	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPL18	RPS19	0.14666062616743147	Co-expression	Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Wang-Maris-2006; Wu-Garvey-2007
+RPL12	RPL13	0.14575225114822388	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS16	RPLP1	0.1444554952904582	Co-expression	Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS2	RPS19	0.1417143305297941	Co-expression	Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wang-Maris-2006; Wu-Garvey-2007
+RPL41	RPS18	0.14168691751547158	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS4X	RPS3A	0.14138214522972703	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS15	RPS19	0.14133097673766315	Co-expression	Bahr-Bowler-2013; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS16	RPS29	0.140964123304002	Co-expression	Alizadeh-Staudt-2000; Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPL41	RPLP1	0.14063997496850789	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPL13	RPS29	0.1406321693211794	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPL41	RPS10	0.1405690914252773	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS11	RPS18	0.14033289719372988	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPL13	RPS18	0.13998061325401068	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPLP1	RPS18	0.1393093764781952	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS10	RPLP0	0.13923141232226044	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPL37A	RPLP1	0.13921332475729287	Co-expression	Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS2	RPL8	0.13838936015963554	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wang-Maris-2006; Wu-Garvey-2007
+RPL41	RPLP0	0.1383342540357262	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS29	RPS18	0.13827035878784955	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS2	RPLP1	0.13795195356942713	Co-expression	Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+LDHA	ENO1	0.13763809762895107	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Wang-Maris-2006
+RPS15	RPS11	0.135907341260463	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPL13	RPL19	0.1351956557482481	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS3A	RPL12	0.13518140628002584	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS10	RPLP1	0.13491760147735476	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPL28	RPLP0	0.13478891260456294	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPL31	RPS29	0.13466510165017098	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS10	RPS2	0.13464820920489728	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS10	RPS15	0.13452976197004318	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS11	RPLP0	0.1344421172980219	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS25	RPS29	0.13364964595530182	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wu-Garvey-2007
+RPS10	RPL8	0.13255331641994417	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Perou-Botstein-1999; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS16	RPS10	0.13249739073216915	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPL18	RPS25	0.1313982428982854	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPL18	RPS16	0.1313493351917714	Co-expression	Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS25	RPLP1	0.13027584506198764	Co-expression	Bahr-Bowler-2013; Bild-Nevins-2006 B; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPLP1	RPLP0	0.13021306646987796	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS28	RPS10	0.13004399673081934	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS11	RPS2	0.1298426310531795	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Gysin-McMahon-2012; Innocenti-Brown-2011; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wang-Maris-2006; Wu-Garvey-2007
+RPS10	RPS17	0.129467963706702	Co-expression	Bahr-Bowler-2013; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Perou-Botstein-1999; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wu-Garvey-2007
+RPL18	RPS10	0.129290372133255	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPL18	RPLP0	0.1291137853404507	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS16	RPLP0	0.12897515762597322	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS29	RPLP0	0.12883614632301033	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS2	RPLP0	0.12830300815403461	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPL12	RPS2	0.1281169707654044	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPL12	RPS18	0.12811663676984608	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS11	EEF1A1	0.12807898223400116	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS28	RPS19	0.12721264827996492	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Wang-Maris-2006; Wu-Garvey-2007
+RPL37A	RPLP0	0.12594889453612268	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS10	RPL37A	0.12574280984699726	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS28	RPS25	0.12564415112137794	Co-expression	Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPL18	RPL12	0.1254954212345183	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS11	RPL19	0.12544836662709713	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wang-Maris-2006; Wu-Garvey-2007
+RPS9	RPL8	0.1254424462094903	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPLP1	EEF1A1	0.1249755397439003	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS11	RPLP1	0.12484530685469508	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPLP1	RPS19	0.12452644109725952	Co-expression	Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPL12	RPS15	0.12449700944125652	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS2	GAPDH	0.12415578588843346	Co-expression	Bild-Nevins-2006 B; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Wang-Maris-2006
+RPS25	RPS11	0.12390012736432254	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS18	EEF1A1	0.12383363756816834	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS25	RPS16	0.12379237543791533	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS4X	EEF1A1	0.12352185416966677	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPL8	RPS19	0.12335102935321629	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Perou-Botstein-1999; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wang-Maris-2006; Wu-Garvey-2007
+RPS3A	RPS11	0.1228650079574436	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Wang-Maris-2006
+RPS9	RPL28	0.12251892604399472	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS3A	RPS16	0.12222049781121314	Co-expression	Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS16	RPL13	0.12200496229343116	Co-expression	Bahr-Bowler-2013; Bild-Nevins-2006 B; Cheok-Evans-2003; Innocenti-Brown-2011; Kang-Willman-2010; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS29	RPS17	0.12188250571489334	Co-expression	Bahr-Bowler-2013; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wu-Garvey-2007
+RPS28	RPS18	0.12184817367233336	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS10	RPS18	0.12169577623717487	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPL41	RPS3A	0.12158209446351975	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPL12	RPLP0	0.12078499747440219	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS3A	RPL37A	0.1206282724160701	Co-expression	Burington-Shaughnessy-2008; Cheok-Evans-2003; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wang-Maris-2006; Wu-Garvey-2007
+RPS3A	RPLP0	0.12008971069008112	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPL12	RPS11	0.12001360720023513	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wang-Maris-2006; Wu-Garvey-2007
+RPLP0	GAPDH	0.11928903637453914	Co-expression	Arijs-Rutgeerts-2009; Burington-Shaughnessy-2008; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPLP0	EEF1A1	0.11895205196924508	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Gysin-McMahon-2012; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPL28	RPLP1	0.11877730418927968	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPL37A	GAPDH	0.11840281542390585	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Ramaswamy-Golub-2001; Rieger-Chu-2004; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPL18	RPS15	0.11817724560387433	Co-expression	Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPL41	RPS15	0.11784534156322479	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS25	RPL12	0.1177429121453315	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPL12	RPS10	0.117723498493433	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS9	RPS29	0.11762507259845734	Co-expression	Burington-Shaughnessy-2008; Chen-Brown-2002; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS4X	RPS19	0.1173568177036941	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS16	EEF1A1	0.11735131312161684	Co-expression	Alizadeh-Staudt-2000; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS28	RPS11	0.11734402272850275	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Wang-Maris-2006; Wu-Garvey-2007
+RPS9	RPL12	0.11713781766593456	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS29	RPL28	0.11694756866199896	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wang-Maris-2006; Wu-Garvey-2007
+RPS15	RPLP0	0.11691480269655585	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS16	RPS18	0.11689336318522692	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPL12	RPLP1	0.11675629345700145	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS4X	RPLP1	0.11654146015644073	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS29	RPS15	0.11603836668655276	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPL12	RPS17	0.1156456503085792	Co-expression	Bahr-Bowler-2013; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wu-Garvey-2007
+RPL12	RPS19	0.11559016536921263	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS4X	RPL37A	0.11539561930112541	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPLP0	RPS18	0.11462025484070182	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS18	RPS19	0.11459352960810065	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS9	RPS10	0.11425760306883603	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPL28	RPS19	0.11409937054850161	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Wang-Maris-2006; Wu-Garvey-2007
+RPL18	RPL13	0.11404296290129423	Co-expression	Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS9	RPS16	0.11344830598682165	Co-expression	Alizadeh-Staudt-2000; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS28	RPS9	0.11295304587110877	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Gysin-McMahon-2012; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Wang-Maris-2006
+RPS11	RPL37A	0.11181966308504343	Co-expression	Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS29	RPS2	0.11120879254303873	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPL37A	EEF1A1	0.11108014889759943	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPL41	RPL13	0.11075073829852045	Co-expression	Bild-Nevins-2006 B; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS10	EEF1A1	0.11073671863414347	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPL31	RPS10	0.11063008406199515	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS2	RPL19	0.11058141873218119	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+EEF1A1	GAPDH	0.11052440525963902	Co-expression	Bild-Nevins-2006 B; Cheok-Evans-2003; Gysin-McMahon-2012; Ramaswamy-Golub-2001; Rieger-Chu-2004; Smirnov-Cheung-2009; Wang-Maris-2006
+RPL13	RPS19	0.11049971054308116	Co-expression	Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Gysin-McMahon-2012; Innocenti-Brown-2011; Ramaswamy-Golub-2001; Rieger-Chu-2004; Wang-Maris-2006; Wu-Garvey-2007
+RPL12	RPS29	0.1104740493465215	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Burington-Shaughnessy-2008; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPL12	RPL28	0.11002322100102901	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Gysin-McMahon-2012; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS29	RPL19	0.10969620884861797	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS15	RPL8	0.10950853955000639	Co-expression	Arijs-Rutgeerts-2009; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPL41	RPS2	0.10941268969327211	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPL12	RPL8	0.10930068755988032	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS25	RPS2	0.1091810364741832	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wang-Maris-2006; Wu-Garvey-2007
+RPL28	RPL8	0.10850297869183123	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Innocenti-Brown-2011; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wang-Maris-2006; Wu-Garvey-2007
+RPS4X	RPL18	0.10845492547377944	Co-expression	Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Rieger-Chu-2004; Roth-Zlotnik-2006; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS15	RPS18	0.10800445545464754	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS28	RPL19	0.10789083992131054	Co-expression	Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS3A	RPS15	0.10784148192033172	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Ramaswamy-Golub-2001; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS16	RPS11	0.1077355146408081	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS3A	RPL19	0.10764251882210374	Co-expression	Arijs-Rutgeerts-2009; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wang-Maris-2006; Wu-Garvey-2007
+RPS3A	RPS17	0.10760649805888534	Co-expression	Bahr-Bowler-2013; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Perou-Botstein-1999; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wu-Garvey-2007
+RPL19	RPS19	0.10752649139612913	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wang-Maris-2006; Wu-Garvey-2007
+RPL28	RPS2	0.1075010463828221	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wang-Maris-2006; Wu-Garvey-2007
+RPL18	RPS18	0.10707796190399677	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009
+RPL31	RPS18	0.1069057781714946	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Innocenti-Brown-2011; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPLP0	RPS17	0.10675007686950266	Co-expression	Bahr-Bowler-2013; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wu-Garvey-2007
+RPL41	RPS19	0.10661656619049609	Co-expression	Burington-Shaughnessy-2008; Cheok-Evans-2003; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPL37A	RPL19	0.10597804561257362	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wang-Maris-2006; Wu-Garvey-2007
+RPLP1	RPL19	0.10567021928727627	Co-expression	Bahr-Bowler-2013; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS16	RPL37A	0.10552146704867482	Co-expression	Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPL12	RPL19	0.10436435509473085	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wu-Garvey-2007
+RPS2	RPS18	0.10421478026546538	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS16	RPS15	0.10396956070326269	Co-expression	Bahr-Bowler-2013; Bild-Nevins-2006 B; Cheok-Evans-2003; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS9	RPLP0	0.10369130200706422	Co-expression	Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPL31	RPLP0	0.10347522795200348	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPL18	RPS9	0.1032901497092098	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS4X	RPL13	0.10327507485635579	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Chen-Brown-2002; Gysin-McMahon-2012; Kang-Willman-2010; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS16	RPL8	0.10284952376969159	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS28	RPL13	0.10270630591548979	Co-expression	Bahr-Bowler-2013; Bild-Nevins-2006 B; Chen-Brown-2002; Cheok-Evans-2003; Gysin-McMahon-2012; Rieger-Chu-2004; Salaverria-Siebert-2011; Wang-Maris-2006; Wu-Garvey-2007
+RPL18	RPL28	0.10249264445155859	Co-expression	Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Wang-Maris-2006
+RPL41	GAPDH	0.10238477122038603	Co-expression	Arijs-Rutgeerts-2009; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Ramaswamy-Golub-2001; Rieger-Chu-2004; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS10	RPL28	0.10237515589687973	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPL31	RPS16	0.10193176311440766	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS28	RPS2	0.10185484169051051	Co-expression	Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Wang-Maris-2006; Wu-Garvey-2007
+RPS2	EEF1A1	0.10176769620738924	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS4X	RPS29	0.10153114760760218	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPL18	RPS29	0.10143432742916048	Co-expression	Burington-Shaughnessy-2008; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wu-Garvey-2007
+RPL31	RPL19	0.10118896025232971	Co-expression	Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS4X	RPS11	0.10115963080897927	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Gysin-McMahon-2012; Kang-Willman-2010; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+ENO1	GAPDH	0.10094854887574911	Co-expression	Bahr-Bowler-2013; Bild-Nevins-2006 B; Mallon-McKay-2013; Rieger-Chu-2004; Salaverria-Siebert-2011; Wang-Maris-2006
+RPS15	RPS2	0.10069911926984787	Co-expression	Bild-Nevins-2006 B; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS15	RPL19	0.10039142915047705	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS16	RPL28	0.10037828225176781	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPL13	RPS17	0.10014877817593515	Co-expression	Bahr-Bowler-2013; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Wu-Garvey-2007
+RPL18	RPL19	0.10008790565188974	Co-expression	Bahr-Bowler-2013; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009
+RPS4X	RPS16	0.09969906369224191	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Kang-Willman-2010; Mallon-McKay-2013; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPL41	RPL12	0.09965051454491913	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPL31	RPL8	0.09926855564117432	Co-expression	Arijs-Rutgeerts-2009; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Wang-Maris-2006; Wu-Garvey-2007
+RPS4X	RPS25	0.09840959077700973	Co-expression	Bild-Nevins-2006 B; Chen-Brown-2002; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS25	RPL13	0.09830473084002733	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Kang-Willman-2010; Mallon-McKay-2013; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS9	RPS19	0.09797528339549899	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Gysin-McMahon-2012; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Wang-Maris-2006; Wu-Garvey-2007
+RPL37A	RPS2	0.09788098349235952	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wang-Maris-2006
+RPS4X	RPLP0	0.09723778255283833	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPL37A	RPL8	0.09710893570445478	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Kang-Willman-2010; Mallon-McKay-2013; Perou-Botstein-1999; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Wang-Maris-2006; Wu-Garvey-2007
+RPL18	RPS2	0.09698503627441823	Co-expression	Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wang-Maris-2006; Wu-Garvey-2007
+RPL31	RPS9	0.09687337558716536	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Gysin-McMahon-2012; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Wang-Maris-2006
+RPLP1	RPL8	0.09664861368946731	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPL13	RPS2	0.09635375463403761	Co-expression	Bahr-Bowler-2013; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wang-Maris-2006; Wu-Garvey-2007
+RPS28	RPL31	0.0959370550699532	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Wang-Maris-2006
+RPL12	EEF2	0.09586231550201774	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Kang-Willman-2010; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPL12	RPS16	0.09574189479462802	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS25	RPL37A	0.09560185810551047	Co-expression	Bahr-Bowler-2013; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Smirnov-Cheung-2009; Wu-Garvey-2007
+RPL28	RPS15	0.0953576525207609	Co-expression	Bahr-Bowler-2013; Bild-Nevins-2006 B; Gysin-McMahon-2012; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS18	GAPDH	0.09518121369183064	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Ramaswamy-Golub-2001; Rieger-Chu-2004; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS10	RPL19	0.09458389261271805	Co-expression	Arijs-Rutgeerts-2009; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS25	RPS10	0.09417840663809329	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPLP1	RPS17	0.09405118855647743	Co-expression	Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Ramaswamy-Golub-2001; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wu-Garvey-2007
+RPS28	RPS15	0.0940426979213953	Co-expression	Bahr-Bowler-2013; Bild-Nevins-2006 B; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS25	RPS9	0.09370236843824387	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPL31	RPS15	0.09335155738517642	Co-expression	Bild-Nevins-2006 B; Cheok-Evans-2003; Gysin-McMahon-2012; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS25	RPS19	0.09310383768752217	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS29	GAPDH	0.09309328626841307	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Ramaswamy-Golub-2001; Rieger-Chu-2004; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS9	RPS11	0.09306565765291452	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Wang-Maris-2006; Wu-Garvey-2007
+RPS25	RPS18	0.09301950666122139	Co-expression	Bild-Nevins-2006 B; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPL41	RPS16	0.09292044141329825	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS25	RPL19	0.092886031139642	Co-expression	Arijs-Rutgeerts-2009; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wu-Garvey-2007
+RPS29	RPL8	0.0926226656883955	Co-expression	Arijs-Rutgeerts-2009; Burington-Shaughnessy-2008; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPL28	RPL19	0.09218729462008923	Co-expression	Arijs-Rutgeerts-2009; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS4X	RPL41	0.09104297845624387	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS3A	RPLP1	0.09094899613410234	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Gysin-McMahon-2012; Kang-Willman-2010; Ramaswamy-Golub-2001; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS28	RPL37A	0.09085989440791309	Co-expression	Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Innocenti-Brown-2011; Mallon-McKay-2013; Rieger-Chu-2004; Wang-Maris-2006
+RPL18	RPS11	0.09075011336244643	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Wang-Maris-2006
+RPLP1	GAPDH	0.09066579444333911	Co-expression	Cheok-Evans-2003; Gysin-McMahon-2012; Ramaswamy-Golub-2001; Rieger-Chu-2004; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS28	EEF2	0.09051150223240256	Co-expression	Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Kang-Willman-2010; Ramaswamy-Golub-2001; Salaverria-Siebert-2011; Wang-Maris-2006
+RPS9	RPL19	0.08995200577192008	Co-expression	Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS11	RPL8	0.08964698598720133	Co-expression	Arijs-Rutgeerts-2009; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Wang-Maris-2006; Wu-Garvey-2007
+RPL41	RPS17	0.08958268747664988	Co-expression	Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wu-Garvey-2007
+RPS9	RPS2	0.08950218581594527	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wang-Maris-2006; Wu-Garvey-2007
+RPS16	RPL19	0.08940258482471108	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Burington-Shaughnessy-2008; Cheok-Evans-2003; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPL18	RPS28	0.08939170162193477	Co-expression	Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Innocenti-Brown-2011; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Wang-Maris-2006; Wu-Garvey-2007
+RPS4X	RPS18	0.08931507356464863	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPLP0	RPL8	0.08924653055146337	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Gysin-McMahon-2012; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS18	RPL8	0.08866250328719616	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS10	GAPDH	0.08826047321781516	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Smirnov-Cheung-2009
+RPL18	RPL41	0.08772328740451485	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Smirnov-Cheung-2009
+RPL13	RPL28	0.08747019828297198	Co-expression	Bild-Nevins-2006 B; Chen-Brown-2002; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS28	RPS17	0.08690899098291993	Co-expression	Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Salaverria-Siebert-2011; Wu-Garvey-2007
+RPL41	RPS28	0.08685427065938711	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Kang-Willman-2010; Mallon-McKay-2013; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPL18	RPLP1	0.08570663700811565	Co-expression	Bahr-Bowler-2013; Bild-Nevins-2006 B; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Ramaswamy-Golub-2001; Rieger-Chu-2004; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS15	RPS17	0.08542460855096579	Co-expression	Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wu-Garvey-2007
+RPL28	EEF1A1	0.08540236670523882	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPL41	RPL31	0.0849675692152232	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS16	RPS17	0.08454852038994431	Co-expression	Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wu-Garvey-2007
+RPS15	GAPDH	0.08422757452353835	Co-expression	Gysin-McMahon-2012; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS25	RPS15	0.08388818777166307	Co-expression	Gysin-McMahon-2012; Mallon-McKay-2013; Perou-Botstein-1999; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPL13	RPLP1	0.0837550307624042	Co-expression	Bild-Nevins-2006 B; Gysin-McMahon-2012; Innocenti-Brown-2011; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS3A	RPS9	0.08372562937438488	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Gysin-McMahon-2012; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Wang-Maris-2006
+RPS28	RPL28	0.08369051315821707	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Wang-Maris-2006; Wu-Garvey-2007
+RPL8	RPS17	0.08298222231678665	Co-expression	Arijs-Rutgeerts-2009; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wu-Garvey-2007
+RPL41	RPL19	0.08289786148816347	Co-expression	Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS9	RPS15	0.08255963819101453	Co-expression	Bild-Nevins-2006 B; Cheok-Evans-2003; Gysin-McMahon-2012; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS19	RPS17	0.0822394834831357	Co-expression	Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Wu-Garvey-2007
+RPS9	RPS18	0.08221499295905232	Co-expression	Burington-Shaughnessy-2008; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPL12	EEF1A1	0.0820824597030878	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS4X	RPS15	0.08188855811022222	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Gysin-McMahon-2012; Kang-Willman-2010; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS3A	RPL13	0.08172563533298671	Co-expression	Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Wang-Maris-2006; Wu-Garvey-2007
+RPL19	RPS18	0.08167158160358667	Co-expression	Arijs-Rutgeerts-2009; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS4X	RPS2	0.08154571219347417	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS28	RPL8	0.0813643904402852	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Gysin-McMahon-2012; Kang-Willman-2010; Rieger-Chu-2004; Salaverria-Siebert-2011; Wang-Maris-2006; Wu-Garvey-2007
+LDHA	GAPDH	0.081030891276896	Co-expression	Arijs-Rutgeerts-2009; Gysin-McMahon-2012; Kang-Willman-2010; Salaverria-Siebert-2011; Smirnov-Cheung-2009
+RPL28	RPS18	0.08084513421636075	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Smirnov-Cheung-2009; Wang-Maris-2006
+RPL31	RPLP1	0.08082505408674479	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS3A	RPS2	0.08040833752602339	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wang-Maris-2006
+RPS4X	RPL28	0.07995732733979821	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Rieger-Chu-2004; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS25	EEF1A1	0.07989110774360597	Co-expression	Bahr-Bowler-2013; Cheok-Evans-2003; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wu-Garvey-2007
+RPS15	EEF2	0.07967488514259458	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Kang-Willman-2010; Ramaswamy-Golub-2001; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS15	RPL37A	0.07931002974510193	Co-expression	Cheok-Evans-2003; Gysin-McMahon-2012; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS9	RPS17	0.07878129556775093	Co-expression	Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wu-Garvey-2007
+RPL31	RPS2	0.07855954044498503	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Wang-Maris-2006
+RPLP0	RPL19	0.07845031365286559	Co-expression	Arijs-Rutgeerts-2009; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPL19	RPS17	0.07799894362688065	Co-expression	Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wu-Garvey-2007
+RPS4X	RPL19	0.07760509639047086	Co-expression	Arijs-Rutgeerts-2009; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wu-Garvey-2007
+RPS15	RPLP1	0.07625962607562542	Co-expression	Bahr-Bowler-2013; Cheok-Evans-2003; Gysin-McMahon-2012; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS9	RPLP1	0.07607046933844686	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPL19	EEF1A1	0.07543013663962483	Co-expression	Arijs-Rutgeerts-2009; Gysin-McMahon-2012; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPL31	RPS17	0.07508317194879055	Co-expression	Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wu-Garvey-2007
+RPS25	RPLP0	0.07401279965415597	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS3A	EEF2	0.0739587820135057	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Kang-Willman-2010; Perou-Botstein-1999; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Wang-Maris-2006; Wu-Garvey-2007
+RPS4X	RPL12	0.07362097315490246	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS4X	RPL31	0.07357415230944753	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Gysin-McMahon-2012; Rieger-Chu-2004; Roth-Zlotnik-2006; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS4X	RPS28	0.0734144770540297	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Gysin-McMahon-2012; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPL31	EEF1A1	0.07332393364049494	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Ramaswamy-Golub-2001; Wang-Maris-2006; Wu-Garvey-2007
+RPS4X	RPS10	0.07319647050462663	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS4X	GAPDH	0.0729380352422595	Co-expression	Arijs-Rutgeerts-2009; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Rieger-Chu-2004; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS2	RPS17	0.07219347706995904	Co-expression	Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wu-Garvey-2007
+RPLP1	EEF2	0.07203085394576192	Co-expression	Bahr-Bowler-2013; Kang-Willman-2010; Ramaswamy-Golub-2001; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPL41	RPL28	0.07177338353358209	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS18	RPS17	0.07065842649899423	Co-expression	Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009
+RPL31	RPS11	0.07060797838494182	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Wang-Maris-2006; Wu-Garvey-2007
+RPL37A	RPS19	0.07044277992099524	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Smirnov-Cheung-2009
+EEF2	RPL8	0.06957075884565711	Co-expression	Bahr-Bowler-2013; Burington-Shaughnessy-2008; Kang-Willman-2010; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wang-Maris-2006; Wu-Garvey-2007
+RPL12	GAPDH	0.06954991165548563	Co-expression	Arijs-Rutgeerts-2009; Burington-Shaughnessy-2008; Gysin-McMahon-2012; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Smirnov-Cheung-2009
+RPL13	RPL37A	0.06881033931858838	Co-expression	Bild-Nevins-2006 B; Cheok-Evans-2003; Ramaswamy-Golub-2001; Rieger-Chu-2004; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+GAPDH	RPS19	0.06880196090787649	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Ramaswamy-Golub-2001; Rieger-Chu-2004; Smirnov-Cheung-2009
+RPS25	EEF2	0.06750220386311412	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Kang-Willman-2010; Ramaswamy-Golub-2001; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wu-Garvey-2007
+RPL13	RPS11	0.06725674914196134	Co-expression	Innocenti-Brown-2011; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Wang-Maris-2006; Wu-Garvey-2007
+RPLP0	EEF2	0.06721812672913074	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Kang-Willman-2010; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wang-Maris-2006; Wu-Garvey-2007
+RPL8	GAPDH	0.0664992481470108	Co-expression	Burington-Shaughnessy-2008; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Rieger-Chu-2004; Salaverria-Siebert-2011
+RPL41	RPL8	0.06646613706834614	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPL19	RPL8	0.06646164017729461	Co-expression	Arijs-Rutgeerts-2009; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wu-Garvey-2007
+RPS3A	RPS19	0.06637983862310648	Co-expression	Burington-Shaughnessy-2008; Chen-Brown-2002; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Wang-Maris-2006
+RPL41	RPS9	0.06626827269792557	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Smirnov-Cheung-2009; Wang-Maris-2006
+HSP90AB1	ENO1	0.06575194140896201	Co-expression	Bahr-Bowler-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009
+RPS9	RPL13	0.06496769981458783	Co-expression	Bild-Nevins-2006 B; Chen-Brown-2002; Cheok-Evans-2003; Gysin-McMahon-2012; Rieger-Chu-2004; Salaverria-Siebert-2011; Wang-Maris-2006; Wu-Garvey-2007
+RPS25	GAPDH	0.06453047832474113	Co-expression	Chen-Brown-2002; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Smirnov-Cheung-2009
+RPL28	GAPDH	0.0639822599478066	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Ramaswamy-Golub-2001; Rieger-Chu-2004; Wang-Maris-2006
+RPS16	GAPDH	0.06389205530285835	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Ramaswamy-Golub-2001; Rieger-Chu-2004; Smirnov-Cheung-2009; Wang-Maris-2006
+RPL41	RPS25	0.0633219110313803	Co-expression	Cheok-Evans-2003; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPL18	RPS17	0.06288105435669422	Co-expression	Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Roth-Zlotnik-2006
+RPS9	EEF2	0.06243539694696665	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Kang-Willman-2010; Ramaswamy-Golub-2001; Salaverria-Siebert-2011; Wang-Maris-2006
+EEF1A1	RPS19	0.0621804678812623	Co-expression	Burington-Shaughnessy-2008; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Smirnov-Cheung-2009
+RPL18	RPS3A	0.06206253287382424	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004
+RPL19	EEF2	0.06191782187670469	Co-expression	Burington-Shaughnessy-2008; Gysin-McMahon-2012; Kang-Willman-2010; Ramaswamy-Golub-2001; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS25	RPL28	0.06179528217762709	Co-expression	Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Wang-Maris-2006; Wu-Garvey-2007
+RPS3A	RPL28	0.0616239660885185	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Wang-Maris-2006; Wu-Garvey-2007
+RPL19	GAPDH	0.06120911706238985	Co-expression	Arijs-Rutgeerts-2009; Burington-Shaughnessy-2008; Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001
+RPL31	EEF2	0.06087590986862779	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Kang-Willman-2010; Perou-Botstein-1999; Ramaswamy-Golub-2001; Wang-Maris-2006
+EEF1A1	RPS17	0.060518049634993076	Co-expression	Kang-Willman-2010; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009
+RPS4X	RPS9	0.06033236300572753	Co-expression	Burington-Shaughnessy-2008; Chen-Brown-2002; Gysin-McMahon-2012; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPL31	RPL37A	0.05968433665111661	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Wang-Maris-2006
+RPS2	EEF2	0.05948008829727769	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Kang-Willman-2010; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wang-Maris-2006
+RPS28	EEF1A1	0.059398001874797046	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPL31	RPL28	0.05775491404347122	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Ramaswamy-Golub-2001; Rieger-Chu-2004; Wang-Maris-2006; Wu-Garvey-2007
+RPL18	EEF2	0.05753670772537589	Co-expression	Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Kang-Willman-2010; Ramaswamy-Golub-2001; Wang-Maris-2006
+RPS4X	RPS17	0.05749653233215213	Co-expression	Gysin-McMahon-2012; Kang-Willman-2010; Mallon-McKay-2013; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009
+RPS15	EEF1A1	0.057458789087831974	Co-expression	Gysin-McMahon-2012; Kang-Willman-2010; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPL37A	RPS17	0.056575775844976306	Co-expression	Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Wu-Garvey-2007
+EEF2	EEF1A1	0.055946403183043	Co-expression	Bahr-Bowler-2013; Kang-Willman-2010; Ramaswamy-Golub-2001; Smirnov-Cheung-2009; Wu-Garvey-2007
+RPS25	RPL8	0.054822909412905574	Co-expression	Arijs-Rutgeerts-2009; Burington-Shaughnessy-2008; Kang-Willman-2010; Mallon-McKay-2013; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wu-Garvey-2007
+RPS10	EEF2	0.054361938033252954	Co-expression	Burington-Shaughnessy-2008; Kang-Willman-2010; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS9	EEF1A1	0.053395024966448545	Co-expression	Alizadeh-Staudt-2000; Burington-Shaughnessy-2008; Ramaswamy-Golub-2001; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS9	RPL37A	0.05338109494186938	Co-expression	Burington-Shaughnessy-2008; Cheok-Evans-2003; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Wang-Maris-2006
+RPL18	EEF1A1	0.053216918371617794	Co-expression	Burington-Shaughnessy-2008; Kang-Willman-2010; Ramaswamy-Golub-2001; Smirnov-Cheung-2009
+RPS16	EEF2	0.05310794338583946	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Kang-Willman-2010; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Wang-Maris-2006
+RPL28	RPS17	0.052847017301246524	Co-expression	Gysin-McMahon-2012; Kang-Willman-2010; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Wu-Garvey-2007
+RPL18	RPL31	0.051657864823937416	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Wang-Maris-2006
+RPS4X	EEF2	0.05162344500422478	Co-expression	Bild-Nevins-2006 B; Kang-Willman-2010; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPS11	GAPDH	0.05139381950721145	Co-expression	Burington-Shaughnessy-2008; Ramaswamy-Golub-2001; Rieger-Chu-2004; Smirnov-Cheung-2009
+RPL13	EEF2	0.050652497448027134	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Kang-Willman-2010; Ramaswamy-Golub-2001; Wang-Maris-2006; Wu-Garvey-2007
+RPS4X	RPL8	0.05021237954497337	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Gysin-McMahon-2012; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wang-Maris-2006
+RPS11	RPS17	0.049399486277252436	Co-expression	Innocenti-Brown-2011; Mallon-McKay-2013; Ramaswamy-Golub-2001; Wu-Garvey-2007
+RPL31	RPS19	0.048676923383027315	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Ramaswamy-Golub-2001; Rieger-Chu-2004; Wang-Maris-2006
+RPS3A	RPL8	0.04865883244201541	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Wu-Garvey-2007
+RPL31	RPL13	0.047702801413834095	Co-expression	Bild-Nevins-2006 B; Cheok-Evans-2003; Gysin-McMahon-2012; Rieger-Chu-2004; Wang-Maris-2006; Wu-Garvey-2007
+RPL28	RPS11	0.04768037819303572	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Ramaswamy-Golub-2001; Rieger-Chu-2004; Wang-Maris-2006; Wu-Garvey-2007
+RPS9	GAPDH	0.047351304441690445	Co-expression	Burington-Shaughnessy-2008; Chen-Brown-2002; Ramaswamy-Golub-2001; Rieger-Chu-2004
+RPL28	RPL37A	0.046240452327765524	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Ramaswamy-Golub-2001; Rieger-Chu-2004; Wang-Maris-2006; Wu-Garvey-2007
+RPS28	RPS3A	0.04580002650618553	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Mallon-McKay-2013; Rieger-Chu-2004; Wang-Maris-2006
+RPS18	EEF2	0.04525063745677471	Co-expression	Kang-Willman-2010; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+RPS11	EEF2	0.04400100605562329	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Ramaswamy-Golub-2001; Wang-Maris-2006
+RPL41	EEF2	0.042672108858823776	Co-expression	Kang-Willman-2010; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+RPL31	GAPDH	0.03840905614197254	Co-expression	Burington-Shaughnessy-2008; Cheok-Evans-2003; Ramaswamy-Golub-2001
+RPL18	RPL37A	0.03736793179996312	Co-expression	Burington-Shaughnessy-2008; Cheok-Evans-2003; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004
+RPL13	EEF1A1	0.035686205606907606	Co-expression	Gysin-McMahon-2012; Rieger-Chu-2004; Smirnov-Cheung-2009; Wang-Maris-2006
+RPL28	EEF2	0.034714403096586466	Co-expression	Burington-Shaughnessy-2008; Kang-Willman-2010; Ramaswamy-Golub-2001; Wang-Maris-2006; Wu-Garvey-2007
+RPS16	LDHB	0.03454216802492738	Co-expression	Alizadeh-Staudt-2000; Bild-Nevins-2006 B; Smirnov-Cheung-2009
+RPL8	EEF1A1	0.03266610996797681	Co-expression	Arijs-Rutgeerts-2009; Burington-Shaughnessy-2008; Rieger-Chu-2004; Smirnov-Cheung-2009
+RPL13	GAPDH	0.03182344697415829	Co-expression	Gysin-McMahon-2012; Rieger-Chu-2004; Wang-Maris-2006
+GAPDH	RPS17	0.030882202088832855	Co-expression	Mallon-McKay-2013; Ramaswamy-Golub-2001
+RPL37A	EEF2	0.030614803079515696	Co-expression	Kang-Willman-2010; Ramaswamy-Golub-2001; Wang-Maris-2006; Wu-Garvey-2007
+EEF2	GAPDH	0.03011513827368617	Co-expression	Kang-Willman-2010; Ramaswamy-Golub-2001; Wang-Maris-2006
+RPS29	EEF2	0.030080453492701054	Co-expression	Burington-Shaughnessy-2008; Kang-Willman-2010; Ramaswamy-Golub-2001; Wang-Maris-2006
+EEF2	RPS17	0.029405992478132248	Co-expression	Kang-Willman-2010; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Wu-Garvey-2007
+LDHA	EEF1A1	0.027800829615443945	Co-expression	Alizadeh-Staudt-2000; Gysin-McMahon-2012; Smirnov-Cheung-2009
+EEF2	RPS19	0.02664653630927205	Co-expression	Burington-Shaughnessy-2008; Kang-Willman-2010; Ramaswamy-Golub-2001; Wang-Maris-2006
+RPLP0	ENO1	0.02612739522010088	Co-expression	Cheok-Evans-2003; Mallon-McKay-2013; Wang-Maris-2006
+LDHA	LDHB	0.02585115935653448	Co-expression	Burington-Shaughnessy-2008; Smirnov-Cheung-2009
+HSP90AB1	GAPDH	0.02489125169813633	Co-expression	Wang-Maris-2006
+RPS15	ENO1	0.024347037076950073	Co-expression	Mallon-McKay-2013; Wang-Maris-2006
+FN1	TERT	0.02425442822277546	Co-expression	Boldrick-Relman-2002; Burington-Shaughnessy-2008
+RPL18	GAPDH	0.02386021427810192	Co-expression	Burington-Shaughnessy-2008; Ramaswamy-Golub-2001
+RPS3A	GAPDH	0.0225185202434659	Co-expression	Burington-Shaughnessy-2008; Wang-Maris-2006
+LDHA	RPLP0	0.021935381926596165	Co-expression	Cheok-Evans-2003; Gysin-McMahon-2012; Smirnov-Cheung-2009
+RPLP0	LDHB	0.019894491881132126	Co-expression	Bahr-Bowler-2013; Cheok-Evans-2003; Smirnov-Cheung-2009
+LHCGR	TERT	0.01949006598442793	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008
+RPS28	GAPDH	0.01941227214410901	Co-expression	Burington-Shaughnessy-2008; Rieger-Chu-2004
+EEF2	STK11	0.019386351108551025	Co-expression	Alizadeh-Staudt-2000
+FN1	LHCGR	0.018276255577802658	Co-expression	Burington-Shaughnessy-2008
+RPS10	LDHA	0.01752350479364395	Co-expression	Gysin-McMahon-2012; Smirnov-Cheung-2009
+RPL8	ENO1	0.017208853736519814	Co-expression	Rieger-Chu-2004; Wang-Maris-2006
+RPS4X	LDHB	0.01694209687411785	Co-expression	Bahr-Bowler-2013; Smirnov-Cheung-2009
+LHCGR	DMRT1	0.016761876177042723	Co-expression	Innocenti-Brown-2011; Kang-Willman-2010
+EEF2	KIT	0.016194667667150497	Co-expression	Perou-Botstein-1999
+LDHA	RPS18	0.016113363206386566	Co-expression	Gysin-McMahon-2012; Smirnov-Cheung-2009
+RPS9	LDHB	0.016099531203508377	Co-expression	Alizadeh-Staudt-2000
+RPS15	LDHA	0.015332512091845274	Co-expression	Gysin-McMahon-2012; Smirnov-Cheung-2009
+HSP90AB1	LDHB	0.015104339690878987	Co-expression	Arijs-Rutgeerts-2009; Kang-Willman-2010; Salaverria-Siebert-2011
+RPS3A	HSP90AB1	0.015056419651955366	Co-expression	Cheok-Evans-2003; Ramaswamy-Golub-2001
+RPL12	LDHB	0.014957503415644169	Co-expression	Bahr-Bowler-2013; Smirnov-Cheung-2009
+RPS2	LDHB	0.014355722814798355	Co-expression	Smirnov-Cheung-2009
+RPS3A	LDHB	0.014298333786427975	Co-expression	Smirnov-Cheung-2009
+HSP90AB1	EEF2	0.01414472539909184	Co-expression	Innocenti-Brown-2011; Ramaswamy-Golub-2001
+RPL19	ENO1	0.013861505314707756	Co-expression	Mallon-McKay-2013
+RPS4X	LDHA	0.01362025085836649	Co-expression	Gysin-McMahon-2012; Smirnov-Cheung-2009
+RPL37A	ENO1	0.013336354866623878	Co-expression	Perou-Botstein-1999
+RPS2	ENO1	0.013226395472884178	Co-expression	Rieger-Chu-2004; Wang-Maris-2006
+RPL41	LDHA	0.013004431035369635	Co-expression	Gysin-McMahon-2012; Smirnov-Cheung-2009
+RPS2	HSP90AB1	0.012075193226337433	Co-expression	Cheok-Evans-2003
+LDHB	BCL10	0.012062462978065014	Co-expression	Chen-Brown-2002
+EEF2	ENO1	0.011705801822245121	Co-expression	Wang-Maris-2006
+EEF1A1	ESR2	0.01141135860234499	Co-expression	Cheok-Evans-2003; Gysin-McMahon-2012
+LDHB	GAPDH	0.010999576188623905	Co-expression	Salaverria-Siebert-2011
+RPS15	ATF7IP	0.00959210004657507	Co-expression	Gysin-McMahon-2012
+RPL8	TERT	0.009386894293129444	Co-expression	Cheok-Evans-2003
+RPL13	LDHB	0.009163213893771172	Co-expression	Bahr-Bowler-2013
+RPL31	ESR1	0.009052581153810024	Co-expression	Perou-Botstein-1999
+HSP90AB1	RPS18	0.009049763903021812	Co-expression	Cheok-Evans-2003
+STK10	STK11	0.008814468048512936	Co-expression	Smirnov-Cheung-2009
+RPS25	LDHA	0.008353724144399166	Co-expression	Smirnov-Cheung-2009
+RPL13	HSP90AB1	0.008157818578183651	Co-expression	Ramaswamy-Golub-2001
+RPS18	ESR2	0.007970607839524746	Co-expression	Gysin-McMahon-2012
+RPS9	ENO1	0.007658061571419239	Co-expression	Wang-Maris-2006
+RPS29	LDHA	0.007577280048280954	Co-expression	Smirnov-Cheung-2009
+HSP90AB1	RPL8	0.007572891656309366	Co-expression	Ramaswamy-Golub-2001
+RPS16	LDHA	0.007544633466750383	Co-expression	Smirnov-Cheung-2009
+RPLP1	POLG	0.0072400011122226715	Co-expression	Wu-Garvey-2007
+RPS16	HSP90AB1	0.007185361813753843	Co-expression	Cheok-Evans-2003
+RPL41	ESR2	0.007133605424314737	Co-expression	Gysin-McMahon-2012
+ENO1	RPS19	0.006938418373465538	Co-expression	Wang-Maris-2006
+LDHA	RPLP1	0.0068907602690160275	Co-expression	Smirnov-Cheung-2009
+RPS16	ENO1	0.006855239626020193	Co-expression	Wang-Maris-2006
+LDHB	RPS19	0.006539026275277138	Co-expression	Bild-Nevins-2006 B
+RPS4X	ATF7IP	0.006456867791712284	Co-expression	Gysin-McMahon-2012
+RPS29	LDHB	0.006455065682530403	Co-expression	Smirnov-Cheung-2009
+RPL12	LDHA	0.006415546406060457	Co-expression	Smirnov-Cheung-2009
+RPS10	LDHB	0.0063123139552772045	Co-expression	Smirnov-Cheung-2009
+RPL41	ATF7IP	0.006158463656902313	Co-expression	Gysin-McMahon-2012
+RPLP1	LDHB	0.006145911756902933	Co-expression	Smirnov-Cheung-2009
+RPL41	HSP90AB1	0.005900420714169741	Co-expression	Cheok-Evans-2003
+RPS18	LDHB	0.0058611733838915825	Co-expression	Smirnov-Cheung-2009
+LDHB	EEF1A1	0.005811723414808512	Co-expression	Smirnov-Cheung-2009
+RPL28	HSP90AB1	0.00578656792640686	Co-expression	Cheok-Evans-2003
+RPS15	LDHB	0.005704179871827364	Co-expression	Smirnov-Cheung-2009
+RPL41	LDHB	0.005526415072381496	Co-expression	Smirnov-Cheung-2009
+LDHB	POLG	0.005350412800908089	Co-expression	Ramaswamy-Golub-2001
+RPS29	ESR2	0.004869937431067228	Co-expression	Cheok-Evans-2003
+HSP90AB1	EEF1A1	0.004344786051660776	Co-expression	Cheok-Evans-2003
+LHCGR	KITLG	0.00393148185685277	Co-expression	Kang-Willman-2010
+LHCGR	ESR2	0.003826735308393836	Co-expression	Kang-Willman-2010
+RPL18	KIT	0.0037174285389482975	Co-expression	Rieger-Chu-2004
+RPL19	KITLG	0.003649750491604209	Co-expression	Rieger-Chu-2004
+LDHB	KIT	0.002872664714232087	Co-expression	Arijs-Rutgeerts-2009
+RPS15	RPS11	0.033441612496972084	Co-localization	Johnson-Shoemaker-2003; Schadt-Shoemaker-2004
+RPLP0	STK11	0.026807080954313278	Co-localization	Johnson-Shoemaker-2003; Schadt-Shoemaker-2004
+RPL18	RPS15	0.025187257677316666	Co-localization	Johnson-Shoemaker-2003; Schadt-Shoemaker-2004
+LHCGR	ESR2	0.024652622640132904	Co-localization	Schadt-Shoemaker-2004
+RPS3A	RPLP0	0.024175426922738552	Co-localization	Johnson-Shoemaker-2003; Schadt-Shoemaker-2004
+RPS3A	RPL31	0.0234368946403265	Co-localization	Schadt-Shoemaker-2004
+RPS4X	RPS11	0.02191143110394478	Co-localization	Johnson-Shoemaker-2003
+RPS11	RPS17	0.021358134225010872	Co-localization	Johnson-Shoemaker-2003
+RPS4X	RPLP0	0.021141989156603813	Co-localization	Johnson-Shoemaker-2003
+RPS4X	RPS17	0.02108616754412651	Co-localization	Johnson-Shoemaker-2003
+RPS28	RPS15	0.020581357181072235	Co-localization	Johnson-Shoemaker-2003
+RPS4X	RPL41	0.020249662920832634	Co-localization	Johnson-Shoemaker-2003
+RPL13	STK11	0.0196355152875185	Co-localization	Johnson-Shoemaker-2003
+RPL18	RPS11	0.01958739198744297	Co-localization	Johnson-Shoemaker-2003; Schadt-Shoemaker-2004
+RPL13	RPLP0	0.018869586288928986	Co-localization	Johnson-Shoemaker-2003
+RPS4X	RPS28	0.018437912687659264	Co-localization	Johnson-Shoemaker-2003
+RPS28	RPLP0	0.018174586817622185	Co-localization	Johnson-Shoemaker-2003
+RPS28	RPL13	0.01787252351641655	Co-localization	Johnson-Shoemaker-2003
+RPL18	RPS3A	0.01777172926813364	Co-localization	Johnson-Shoemaker-2003; Schadt-Shoemaker-2004
+KIT	KITLG	0.017726603895425797	Co-localization	Johnson-Shoemaker-2003
+RPS28	RPS17	0.017551271244883537	Co-localization	Johnson-Shoemaker-2003
+RPL18	RPL12	0.017227190546691418	Co-localization	Johnson-Shoemaker-2003; Schadt-Shoemaker-2004
+RPL12	RPS11	0.01682100584730506	Co-localization	Johnson-Shoemaker-2003; Schadt-Shoemaker-2004
+RPS28	RPS11	0.01666913367807865	Co-localization	Johnson-Shoemaker-2003
+RPS11	RPLP0	0.0165825504809618	Co-localization	Johnson-Shoemaker-2003
+RPS15	RPL19	0.016563262790441513	Co-localization	Johnson-Shoemaker-2003
+RPS16	RPS15	0.01624030340462923	Co-localization	Johnson-Shoemaker-2003; Schadt-Shoemaker-2004
+RPS25	RPS15	0.0160914845764637	Co-localization	Johnson-Shoemaker-2003
+RPS4X	RPL19	0.015889480710029602	Co-localization	Johnson-Shoemaker-2003
+RPL31	EEF2	0.015768134966492653	Co-localization	Schadt-Shoemaker-2004
+RPS15	RPL37A	0.01567833684384823	Co-localization	Johnson-Shoemaker-2003
+RPL28	RPS17	0.014943406917154789	Co-localization	Johnson-Shoemaker-2003
+RPS4X	RPS3A	0.014869614504277706	Co-localization	Johnson-Shoemaker-2003
+RPS3A	RPS15	0.014842447824776173	Co-localization	Johnson-Shoemaker-2003
+RPS29	RPS11	0.014796284027397633	Co-localization	Johnson-Shoemaker-2003; Schadt-Shoemaker-2004
+RPL28	RPS15	0.01473965309560299	Co-localization	Johnson-Shoemaker-2003
+RPS11	RPL19	0.01471813302487135	Co-localization	Johnson-Shoemaker-2003
+RPL12	RPS29	0.01464675972238183	Co-localization	Johnson-Shoemaker-2003; Schadt-Shoemaker-2004
+RPS3A	RPS16	0.014298128429800272	Co-localization	Johnson-Shoemaker-2003; Schadt-Shoemaker-2004
+RPS28	RPL19	0.014086583629250526	Co-localization	Johnson-Shoemaker-2003
+RPS4X	RPL28	0.01388009637594223	Co-localization	Johnson-Shoemaker-2003
+RPLP0	RPL19	0.013845526613295078	Co-localization	Johnson-Shoemaker-2003
+RPL18	RPS29	0.013817015569657087	Co-localization	Johnson-Shoemaker-2003; Schadt-Shoemaker-2004
+RPL37A	ENO1	0.0137522853910923	Co-localization	Schadt-Shoemaker-2004
+RPL19	RPS17	0.013739701360464096	Co-localization	Johnson-Shoemaker-2003
+RPL28	RPS11	0.013624856248497963	Co-localization	Johnson-Shoemaker-2003
+RPL18	RPLP0	0.013519397005438805	Co-localization	Johnson-Shoemaker-2003
+RPS16	RPLP0	0.013450568076223135	Co-localization	Johnson-Shoemaker-2003; Schadt-Shoemaker-2004
+RPS4X	RPL18	0.013432486914098263	Co-localization	Johnson-Shoemaker-2003
+RPL18	RPL41	0.013258934952318668	Co-localization	Johnson-Shoemaker-2003
+RPS28	RPL28	0.013174260966479778	Co-localization	Johnson-Shoemaker-2003
+RPS16	RPS11	0.013070596847683191	Co-localization	Johnson-Shoemaker-2003; Schadt-Shoemaker-2004
+RPL18	RPS16	0.01306370459496975	Co-localization	Johnson-Shoemaker-2003; Schadt-Shoemaker-2004
+RPL18	RPS28	0.012848659418523312	Co-localization	Johnson-Shoemaker-2003
+RPL41	RPL37A	0.012844317592680454	Co-localization	Johnson-Shoemaker-2003
+RPL41	RPS25	0.012830117717385292	Co-localization	Johnson-Shoemaker-2003
+RPL41	RPS3A	0.012787628918886185	Co-localization	Johnson-Shoemaker-2003
+RPL28	RPLP0	0.012658671475946903	Co-localization	Johnson-Shoemaker-2003
+RPL13	RPL19	0.012617437168955803	Co-localization	Johnson-Shoemaker-2003
+RPL18	RPL13	0.012589475139975548	Co-localization	Johnson-Shoemaker-2003
+RPS28	RPS3A	0.012479822151362896	Co-localization	Johnson-Shoemaker-2003
+RPS28	RPS25	0.01236859243363142	Co-localization	Johnson-Shoemaker-2003
+RPS25	RPL13	0.012262175790965557	Co-localization	Johnson-Shoemaker-2003
+RPS3A	RPS11	0.012253664433956146	Co-localization	Johnson-Shoemaker-2003
+RPS3A	RPL13	0.012152108363807201	Co-localization	Johnson-Shoemaker-2003
+RPL12	RPS16	0.011435622116550803	Co-localization	Johnson-Shoemaker-2003; Schadt-Shoemaker-2004
+RPS16	RPS29	0.011109463637694716	Co-localization	Johnson-Shoemaker-2003; Schadt-Shoemaker-2004
+RPS28	RPL37A	0.01055836770683527	Co-localization	Johnson-Shoemaker-2003
+RPS25	RPS11	0.010547133162617683	Co-localization	Johnson-Shoemaker-2003
+RPS15	RPS2	0.010452345944941044	Co-localization	Johnson-Shoemaker-2003
+RPS3A	RPL19	0.010438811033964157	Co-localization	Johnson-Shoemaker-2003
+RPL28	RPL19	0.01023558434098959	Co-localization	Johnson-Shoemaker-2003
+RPS2	RPLP0	0.009981882758438587	Co-localization	Johnson-Shoemaker-2003
+RPL18	RPL37A	0.009887181222438812	Co-localization	Johnson-Shoemaker-2003
+RPS25	RPL19	0.009848755784332752	Co-localization	Johnson-Shoemaker-2003
+RPL18	RPS25	0.00979065615683794	Co-localization	Johnson-Shoemaker-2003
+RPS25	RPL37A	0.009717865847051144	Co-localization	Johnson-Shoemaker-2003
+RPL37A	GAPDH	0.009685722179710865	Co-localization	Schadt-Shoemaker-2004
+RPS3A	RPS25	0.009658334776759148	Co-localization	Johnson-Shoemaker-2003
+RPL18	RPL19	0.009527605958282948	Co-localization	Johnson-Shoemaker-2003
+RPL12	RPS15	0.009474684484302998	Co-localization	Johnson-Shoemaker-2003
+RPL18	KIT	0.009464387781918049	Co-localization	Schadt-Shoemaker-2004
+RPL18	EEF2	0.00938340462744236	Co-localization	Schadt-Shoemaker-2004
+RPS11	STK11	0.009216229431331158	Co-localization	Schadt-Shoemaker-2004
+RPS4X	RPS2	0.009171811863780022	Co-localization	Johnson-Shoemaker-2003
+RPLP0	EEF2	0.009015587158501148	Co-localization	Schadt-Shoemaker-2004
+RPS10	RPS15	0.008996875956654549	Co-localization	Johnson-Shoemaker-2003
+RPL13	RPS2	0.008960924111306667	Co-localization	Johnson-Shoemaker-2003
+RPS3A	RPL37A	0.008770417422056198	Co-localization	Johnson-Shoemaker-2003
+RPL18	RPL28	0.00875707995146513	Co-localization	Johnson-Shoemaker-2003
+ENO1	GAPDH	0.008734605275094509	Co-localization	Schadt-Shoemaker-2004
+RPS29	EEF2	0.008693507872521877	Co-localization	Schadt-Shoemaker-2004
+RPL41	RPS2	0.00857490673661232	Co-localization	Johnson-Shoemaker-2003
+RPL41	RPL12	0.008571851998567581	Co-localization	Johnson-Shoemaker-2003
+RPS15	RPLP1	0.008453036658465862	Co-localization	Johnson-Shoemaker-2003
+RPS11	EEF2	0.008447825908660889	Co-localization	Schadt-Shoemaker-2004
+RPS16	EEF2	0.008426327258348465	Co-localization	Schadt-Shoemaker-2004
+RPS28	RPS2	0.008313464932143688	Co-localization	Johnson-Shoemaker-2003
+RPS4X	RPL12	0.008271420374512672	Co-localization	Johnson-Shoemaker-2003
+RPL41	RPS16	0.008130825124680996	Co-localization	Johnson-Shoemaker-2003
+RPS16	KIT	0.008115850389003754	Co-localization	Schadt-Shoemaker-2004
+RPL12	RPLP0	0.008065711706876755	Co-localization	Johnson-Shoemaker-2003
+RPL41	RPLP1	0.00803639367222786	Co-localization	Johnson-Shoemaker-2003
+RPL41	RPS10	0.008005252107977867	Co-localization	Johnson-Shoemaker-2003
+RPS3A	RPL28	0.00794721208512783	Co-localization	Johnson-Shoemaker-2003
+RPS10	RPLP0	0.00787799246609211	Co-localization	Johnson-Shoemaker-2003
+RPLP1	POLG	0.007862201891839504	Co-localization	Johnson-Shoemaker-2003
+RPL12	RPL13	0.007836056873202324	Co-localization	Johnson-Shoemaker-2003
+RPS15	RPS18	0.007746737916022539	Co-localization	Johnson-Shoemaker-2003
+RPS29	RPS15	0.007745267357677221	Co-localization	Johnson-Shoemaker-2003
+RPS10	POLG	0.007658894639462233	Co-localization	Johnson-Shoemaker-2003
+RPS10	RPL13	0.007638557814061642	Co-localization	Johnson-Shoemaker-2003
+RPS16	RPL13	0.007457763887941837	Co-localization	Johnson-Shoemaker-2003
+RPS28	RPL12	0.007447467185556889	Co-localization	Johnson-Shoemaker-2003
+RPLP1	STK11	0.007433939725160599	Co-localization	Johnson-Shoemaker-2003
+RPL18	RPL31	0.007403345312923193	Co-localization	Schadt-Shoemaker-2004
+RPL41	RPS29	0.0073755295015871525	Co-localization	Johnson-Shoemaker-2003
+RPLP0	ENO1	0.007371510379016399	Co-localization	Schadt-Shoemaker-2004
+RPS2	STK11	0.007359307259321213	Co-localization	Johnson-Shoemaker-2003
+RPS4X	RPS16	0.007331538945436478	Co-localization	Johnson-Shoemaker-2003
+RPL13	RPLP1	0.007276597432792187	Co-localization	Johnson-Shoemaker-2003
+RPS11	RPS2	0.00727159483358264	Co-localization	Johnson-Shoemaker-2003
+RPS4X	RPS10	0.0072128139436244965	Co-localization	Johnson-Shoemaker-2003
+RPL41	RPS18	0.007204657886177301	Co-localization	Johnson-Shoemaker-2003
+RPS28	RPS16	0.007188612595200539	Co-localization	Johnson-Shoemaker-2003
+RPLP1	RPLP0	0.007126664277166128	Co-localization	Johnson-Shoemaker-2003
+RPS15	RPS19	0.007053704932332039	Co-localization	Johnson-Shoemaker-2003
+RPS28	RPS10	0.0069397324696183205	Co-localization	Johnson-Shoemaker-2003
+RPL18	RPS2	0.006885951850563288	Co-localization	Johnson-Shoemaker-2003
+RPS29	POLG	0.0068772295489907265	Co-localization	Johnson-Shoemaker-2003
+RPS4X	RPLP1	0.006828297860920429	Co-localization	Johnson-Shoemaker-2003
+RPS28	RPLP1	0.006762383971363306	Co-localization	Johnson-Shoemaker-2003
+RPL13	RPS29	0.006745057180523872	Co-localization	Johnson-Shoemaker-2003
+RPS29	RPLP0	0.006710798479616642	Co-localization	Johnson-Shoemaker-2003
+RPS3A	RPS2	0.006683329585939646	Co-localization	Johnson-Shoemaker-2003
+RPS4X	RPS29	0.006628833245486021	Co-localization	Johnson-Shoemaker-2003
+RPLP0	RPS18	0.006585984490811825	Co-localization	Johnson-Shoemaker-2003
+RPL13	RPS18	0.006575054954737425	Co-localization	Johnson-Shoemaker-2003
+RPS2	RPL19	0.006558738183230162	Co-localization	Johnson-Shoemaker-2003
+RPS28	RPS29	0.006506542209535837	Co-localization	Johnson-Shoemaker-2003
+RPS25	RPS2	0.006447028834372759	Co-localization	Johnson-Shoemaker-2003
+RPL37A	RPS2	0.006256377790123224	Co-localization	Johnson-Shoemaker-2003
+RPLP0	RPS19	0.006236044690012932	Co-localization	Johnson-Shoemaker-2003
+RPLP0	GAPDH	0.00621076300740242	Co-localization	Schadt-Shoemaker-2004
+RPS3A	RPL12	0.006115021649748087	Co-localization	Johnson-Shoemaker-2003
+RPS25	RPL12	0.006099412217736244	Co-localization	Johnson-Shoemaker-2003
+RPL18	RPS10	0.006021980661898851	Co-localization	Johnson-Shoemaker-2003
+RPS25	RPS10	0.005981168244034052	Co-localization	Johnson-Shoemaker-2003
+RPL41	RPS19	0.005978059023618698	Co-localization	Johnson-Shoemaker-2003
+RPS3A	RPS10	0.005918452050536871	Co-localization	Johnson-Shoemaker-2003
+RPS4X	RPS18	0.00589432567358017	Co-localization	Johnson-Shoemaker-2003
+RPS28	RPS18	0.005893690977245569	Co-localization	Johnson-Shoemaker-2003
+RPL12	RPL37A	0.005838303826749325	Co-localization	Johnson-Shoemaker-2003
+RPS25	RPS16	0.005807317793369293	Co-localization	Johnson-Shoemaker-2003
+RPL12	RPL19	0.005786677822470665	Co-localization	Johnson-Shoemaker-2003
+RPS10	RPL37A	0.0057549080811440945	Co-localization	Johnson-Shoemaker-2003
+RPL13	RPS19	0.0056763580068945885	Co-localization	Johnson-Shoemaker-2003
+RPS25	RPLP1	0.005674021318554878	Co-localization	Johnson-Shoemaker-2003
+RPS16	RPL37A	0.005640868563205004	Co-localization	Johnson-Shoemaker-2003
+RPL18	RPLP1	0.005610966589301825	Co-localization	Johnson-Shoemaker-2003
+RPS10	RPS11	0.0055993120186030865	Co-localization	Johnson-Shoemaker-2003
+RPL28	RPS2	0.005593892186880112	Co-localization	Johnson-Shoemaker-2003
+RPS10	RPL19	0.0055745490826666355	Co-localization	Johnson-Shoemaker-2003
+RPS16	RPL19	0.005526749882847071	Co-localization	Johnson-Shoemaker-2003
+RPS11	RPLP1	0.005503557156771421	Co-localization	Johnson-Shoemaker-2003
+RPL37A	RPLP1	0.005447038449347019	Co-localization	Johnson-Shoemaker-2003
+RPLP1	RPL19	0.005401152186095715	Co-localization	Johnson-Shoemaker-2003
+RPS25	RPS29	0.005374676547944546	Co-localization	Johnson-Shoemaker-2003
+RPS3A	RPLP1	0.0053117177449166775	Co-localization	Johnson-Shoemaker-2003
+RPL18	RPS18	0.005285909865051508	Co-localization	Johnson-Shoemaker-2003
+RPS3A	RPS29	0.005232777912169695	Co-localization	Johnson-Shoemaker-2003
+RPS25	RPS18	0.0051649040542542934	Co-localization	Johnson-Shoemaker-2003
+RPL37A	RPS18	0.005150160286575556	Co-localization	Johnson-Shoemaker-2003
+RPS29	RPL37A	0.005035062786191702	Co-localization	Johnson-Shoemaker-2003
+RPL18	RPS19	0.005006113555282354	Co-localization	Johnson-Shoemaker-2003
+RPS29	RPL19	0.004982694052159786	Co-localization	Johnson-Shoemaker-2003
+RPS3A	RPS18	0.0048151761293411255	Co-localization	Johnson-Shoemaker-2003
+RPL37A	RPS19	0.004762591794133186	Co-localization	Johnson-Shoemaker-2003
+RPL12	RPL28	0.004737618379294872	Co-localization	Johnson-Shoemaker-2003
+RPS25	RPS19	0.004702411592006683	Co-localization	Johnson-Shoemaker-2003
+RPS16	RPL28	0.004566702991724014	Co-localization	Johnson-Shoemaker-2003
+RPS3A	RPS19	0.00454466650262475	Co-localization	Johnson-Shoemaker-2003
+RPL28	RPLP1	0.004354680422693491	Co-localization	Johnson-Shoemaker-2003
+RPL19	RPS18	0.0042940545827150345	Co-localization	Johnson-Shoemaker-2003
+RPS29	RPL28	0.004289658274501562	Co-localization	Johnson-Shoemaker-2003
+RPL12	RPS2	0.004165428224951029	Co-localization	Johnson-Shoemaker-2003
+RPS16	RPS2	0.004158605821430683	Co-localization	Johnson-Shoemaker-2003
+RPS10	RPS2	0.004143522586673498	Co-localization	Johnson-Shoemaker-2003
+RPS2	RPLP1	0.0037759444676339626	Co-localization	Johnson-Shoemaker-2003
+RPL12	RPS10	0.0037493822164833546	Co-localization	Johnson-Shoemaker-2003
+RPS16	RPS10	0.003663762006908655	Co-localization	Johnson-Shoemaker-2003
+RPS2	RPS18	0.0035762551706284285	Co-localization	Johnson-Shoemaker-2003
+RPS29	RPS2	0.003574231406673789	Co-localization	Johnson-Shoemaker-2003
+RPS16	RPLP1	0.0035187778994441032	Co-localization	Johnson-Shoemaker-2003
+RPS2	RPS19	0.0034559867344796658	Co-localization	Johnson-Shoemaker-2003
+RPL12	RPLP1	0.0034366268664598465	Co-localization	Johnson-Shoemaker-2003
+RPS10	RPLP1	0.0034288568422198296	Co-localization	Johnson-Shoemaker-2003
+RPL12	RPS18	0.003236789256334305	Co-localization	Johnson-Shoemaker-2003
+RPS16	RPS18	0.0032118503004312515	Co-localization	Johnson-Shoemaker-2003
+RPS10	RPS18	0.003211726201698184	Co-localization	Johnson-Shoemaker-2003
+RPS10	RPS29	0.0031665705610066652	Co-localization	Johnson-Shoemaker-2003
+RPS16	RPS19	0.0031570123974233866	Co-localization	Johnson-Shoemaker-2003
+RPS10	RPS19	0.0030326046980917454	Co-localization	Johnson-Shoemaker-2003
+RPL12	RPS19	0.003031309926882386	Co-localization	Johnson-Shoemaker-2003
+RPS29	RPLP1	0.002965893130749464	Co-localization	Johnson-Shoemaker-2003
+RPLP1	RPS18	0.0029028975404798985	Co-localization	Johnson-Shoemaker-2003
+RPS29	RPS18	0.002838381100445986	Co-localization	Johnson-Shoemaker-2003
+RPLP1	RPS19	0.0028017591685056686	Co-localization	Johnson-Shoemaker-2003
+RPS18	RPS19	0.002703144447878003	Co-localization	Johnson-Shoemaker-2003
+RPS29	RPS19	0.0026065718848258257	Co-localization	Johnson-Shoemaker-2003
+LDHA	LDHB	0.73187255859375	Pathway	Wu-Stein-2010
+KIT	KITLG	0.05413428787142038	Pathway	PATHWAYCOMMONS-NCI_NATURE; Wu-Stein-2010
+RPL28	EEF2	0.036577412858605385	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPLP1	EEF2	0.03637052699923515	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPL41	EEF2	0.03637052699923515	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPL13	EEF1A1	0.03373750578612089	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPS9	EEF2	0.03027996700257063	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+EEF2	RPS17	0.030146251432597637	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+EEF2	RPS19	0.030146251432597637	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPS15	EEF2	0.030146251432597637	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPS10	EEF2	0.030146251432597637	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPLP0	EEF1A1	0.029701166786253452	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPL12	EEF1A1	0.029701166786253452	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPL18	EEF1A1	0.029701166786253452	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPL28	EEF1A1	0.02948854584246874	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPLP1	EEF1A1	0.029333041049540043	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPL41	EEF1A1	0.029333041049540043	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+TERT	ESR2	0.025504037737846375	Pathway	Wu-Stein-2010
+RPS2	EEF1A1	0.02454222831875086	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPS9	EEF1A1	0.024406404234468937	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+EEF1A1	RPS17	0.02430589683353901	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+EEF1A1	RPS19	0.02430589683353901	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPS15	EEF1A1	0.02430589683353901	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPS10	EEF1A1	0.02430589683353901	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPL13	RPLP1	0.02428093645721674	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPL41	RPL13	0.02428093645721674	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPL12	RPLP0	0.022261440753936768	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPL18	RPLP0	0.022261440753936768	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPL18	RPL12	0.022261440753936768	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPL28	RPLP0	0.022141757421195507	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPL12	RPL28	0.022141757421195507	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPL18	RPL28	0.022141757421195507	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPLP1	RPLP0	0.022054224275052547	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPL12	RPLP1	0.022054224275052547	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPL41	RPLP0	0.022054224275052547	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPL41	RPL12	0.022054224275052547	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPL18	RPLP1	0.022054224275052547	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPL18	RPL41	0.022054224275052547	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPL28	RPLP1	0.021936927922070026	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPL41	RPL28	0.021936927922070026	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPL41	RPLP1	0.02185114100575447	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPL13	RPS17	0.020105580799281597	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPL13	RPS19	0.020105580799281597	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPL13	RPS15	0.020105580799281597	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPS10	RPL13	0.020105580799281597	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPS2	RPLP0	0.018388843163847923	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPL12	RPS2	0.018388843163847923	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPL18	RPS2	0.018388843163847923	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPS9	RPLP0	0.018312388099730015	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPS9	RPL12	0.018312388099730015	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPL18	RPS9	0.018312388099730015	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPL28	RPS2	0.018289870582520962	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPLP0	RPS17	0.01825581304728985	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPLP0	RPS19	0.01825581304728985	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPS15	RPLP0	0.01825581304728985	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPS10	RPLP0	0.01825581304728985	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPL12	RPS17	0.01825581304728985	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPL12	RPS19	0.01825581304728985	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPL12	RPS15	0.01825581304728985	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPL12	RPS10	0.01825581304728985	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPL18	RPS17	0.01825581304728985	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPL18	RPS19	0.01825581304728985	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPL18	RPS15	0.01825581304728985	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPL18	RPS10	0.01825581304728985	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPS2	RPLP1	0.018217485398054123	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPL41	RPS2	0.018217485398054123	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPS9	RPL28	0.01821429654955864	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPL28	RPS17	0.018158373422920704	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPL28	RPS19	0.018158373422920704	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPL28	RPS15	0.018158373422920704	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPS10	RPL28	0.018158373422920704	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPS9	RPLP1	0.01814255490899086	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPL41	RPS9	0.01814255490899086	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPLP1	RPS17	0.018087108619511127	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPLP1	RPS19	0.018087108619511127	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPS15	RPLP1	0.018087108619511127	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPS10	RPLP1	0.018087108619511127	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPL41	RPS17	0.018087108619511127	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPL41	RPS19	0.018087108619511127	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPL41	RPS15	0.018087108619511127	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPL41	RPS10	0.018087108619511127	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPS9	RPS2	0.015126713085919619	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPS2	RPS17	0.015079929493367672	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPS2	RPS19	0.015079929493367672	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPS15	RPS2	0.015079929493367672	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPS10	RPS2	0.015079929493367672	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPS9	RPS17	0.015017683617770672	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPS9	RPS19	0.015017683617770672	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPS9	RPS15	0.015017683617770672	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPS9	RPS10	0.015017683617770672	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPS19	RPS17	0.014971623662859201	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPS15	RPS17	0.014971623662859201	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPS15	RPS19	0.014971623662859201	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPS10	RPS17	0.014971623662859201	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPS10	RPS19	0.014971623662859201	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+RPS10	RPS15	0.014971623662859201	Pathway	PATHWAYCOMMONS-REACTOME; Wu-Stein-2010
+EEF2	RPL8	0.012299161404371262	Pathway	Wu-Stein-2010
+RPL19	EEF2	0.012299161404371262	Pathway	Wu-Stein-2010
+RPLP0	EEF2	0.012299161404371262	Pathway	Wu-Stein-2010
+RPL37A	EEF2	0.012299161404371262	Pathway	Wu-Stein-2010
+RPL13	EEF2	0.012299161404371262	Pathway	Wu-Stein-2010
+RPL12	EEF2	0.012299161404371262	Pathway	Wu-Stein-2010
+RPL31	EEF2	0.012299161404371262	Pathway	Wu-Stein-2010
+RPL18	EEF2	0.012299161404371262	Pathway	Wu-Stein-2010
+ESR1	ESR2	0.01215824019163847	Pathway	PATHWAYCOMMONS-NCI_NATURE
+RPL19	RPL8	0.011869711801409721	Pathway	Wu-Stein-2010
+RPLP0	RPL8	0.011869711801409721	Pathway	Wu-Stein-2010
+RPLP0	RPL19	0.011869711801409721	Pathway	Wu-Stein-2010
+RPLP1	RPL8	0.011869711801409721	Pathway	Wu-Stein-2010
+RPLP1	RPL19	0.011869711801409721	Pathway	Wu-Stein-2010
+RPL37A	RPL8	0.011869711801409721	Pathway	Wu-Stein-2010
+RPL37A	RPL19	0.011869711801409721	Pathway	Wu-Stein-2010
+RPL37A	RPLP0	0.011869711801409721	Pathway	Wu-Stein-2010
+RPL37A	RPLP1	0.011869711801409721	Pathway	Wu-Stein-2010
+RPL28	RPL8	0.011869711801409721	Pathway	Wu-Stein-2010
+RPL28	RPL19	0.011869711801409721	Pathway	Wu-Stein-2010
+RPL28	RPL37A	0.011869711801409721	Pathway	Wu-Stein-2010
+RPL13	RPL8	0.011869711801409721	Pathway	Wu-Stein-2010
+RPL13	RPL19	0.011869711801409721	Pathway	Wu-Stein-2010
+RPL13	RPLP0	0.011869711801409721	Pathway	Wu-Stein-2010
+RPL13	RPL37A	0.011869711801409721	Pathway	Wu-Stein-2010
+RPL13	RPL28	0.011869711801409721	Pathway	Wu-Stein-2010
+RPL12	RPL8	0.011869711801409721	Pathway	Wu-Stein-2010
+RPL12	RPL19	0.011869711801409721	Pathway	Wu-Stein-2010
+RPL12	RPL37A	0.011869711801409721	Pathway	Wu-Stein-2010
+RPL12	RPL13	0.011869711801409721	Pathway	Wu-Stein-2010
+RPL31	RPL8	0.011869711801409721	Pathway	Wu-Stein-2010
+RPL31	RPL19	0.011869711801409721	Pathway	Wu-Stein-2010
+RPL31	RPLP0	0.011869711801409721	Pathway	Wu-Stein-2010
+RPL31	RPLP1	0.011869711801409721	Pathway	Wu-Stein-2010
+RPL31	RPL37A	0.011869711801409721	Pathway	Wu-Stein-2010
+RPL31	RPL28	0.011869711801409721	Pathway	Wu-Stein-2010
+RPL31	RPL13	0.011869711801409721	Pathway	Wu-Stein-2010
+RPL31	RPL12	0.011869711801409721	Pathway	Wu-Stein-2010
+RPL41	RPL8	0.011869711801409721	Pathway	Wu-Stein-2010
+RPL41	RPL19	0.011869711801409721	Pathway	Wu-Stein-2010
+RPL41	RPL37A	0.011869711801409721	Pathway	Wu-Stein-2010
+RPL41	RPL31	0.011869711801409721	Pathway	Wu-Stein-2010
+RPL18	RPL8	0.011869711801409721	Pathway	Wu-Stein-2010
+RPL18	RPL19	0.011869711801409721	Pathway	Wu-Stein-2010
+RPL18	RPL37A	0.011869711801409721	Pathway	Wu-Stein-2010
+RPL18	RPL13	0.011869711801409721	Pathway	Wu-Stein-2010
+RPL18	RPL31	0.011869711801409721	Pathway	Wu-Stein-2010
+EEF2	EEF1A1	0.011646460741758347	Pathway	Wu-Stein-2010
+RPL8	EEF1A1	0.011239801533520222	Pathway	Wu-Stein-2010
+RPL19	EEF1A1	0.011239801533520222	Pathway	Wu-Stein-2010
+RPL37A	EEF1A1	0.011239801533520222	Pathway	Wu-Stein-2010
+RPL31	EEF1A1	0.011239801533520222	Pathway	Wu-Stein-2010
+ESR1	STK11	0.011031796224415302	Pathway	PATHWAYCOMMONS-NCI_NATURE
+RPS18	EEF2	0.010149768553674221	Pathway	Wu-Stein-2010
+RPS2	EEF2	0.010149768553674221	Pathway	Wu-Stein-2010
+RPS11	EEF2	0.010149768553674221	Pathway	Wu-Stein-2010
+RPS29	EEF2	0.010149768553674221	Pathway	Wu-Stein-2010
+RPS16	EEF2	0.010149768553674221	Pathway	Wu-Stein-2010
+RPS25	EEF2	0.010149768553674221	Pathway	Wu-Stein-2010
+RPS28	EEF2	0.010149768553674221	Pathway	Wu-Stein-2010
+RPS4X	EEF2	0.010149768553674221	Pathway	Wu-Stein-2010
+RPS3A	EEF2	0.010047740302979946	Pathway	Wu-Stein-2010
+RPL8	RPS17	0.00979536958038807	Pathway	Wu-Stein-2010
+RPL8	RPS19	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS18	RPL8	0.00979536958038807	Pathway	Wu-Stein-2010
+RPL19	RPS17	0.00979536958038807	Pathway	Wu-Stein-2010
+RPL19	RPS19	0.00979536958038807	Pathway	Wu-Stein-2010
+RPL19	RPS18	0.00979536958038807	Pathway	Wu-Stein-2010
+RPLP0	RPS18	0.00979536958038807	Pathway	Wu-Stein-2010
+RPLP1	RPS18	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS2	RPL8	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS2	RPL19	0.00979536958038807	Pathway	Wu-Stein-2010
+RPL37A	RPS17	0.00979536958038807	Pathway	Wu-Stein-2010
+RPL37A	RPS19	0.00979536958038807	Pathway	Wu-Stein-2010
+RPL37A	RPS18	0.00979536958038807	Pathway	Wu-Stein-2010
+RPL37A	RPS2	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS11	RPL8	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS11	RPL19	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS11	RPLP0	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS11	RPLP1	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS11	RPL37A	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS15	RPL8	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS15	RPL19	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS15	RPL37A	0.00979536958038807	Pathway	Wu-Stein-2010
+RPL28	RPS18	0.00979536958038807	Pathway	Wu-Stein-2010
+RPL28	RPS11	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS29	RPL8	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS29	RPL19	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS29	RPLP0	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS29	RPLP1	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS29	RPL37A	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS29	RPL28	0.00979536958038807	Pathway	Wu-Stein-2010
+RPL13	RPS18	0.00979536958038807	Pathway	Wu-Stein-2010
+RPL13	RPS2	0.00979536958038807	Pathway	Wu-Stein-2010
+RPL13	RPS11	0.00979536958038807	Pathway	Wu-Stein-2010
+RPL13	RPS29	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS10	RPL8	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS10	RPL19	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS10	RPL37A	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS16	RPL8	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS16	RPL19	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS16	RPLP0	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS16	RPLP1	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS16	RPL37A	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS16	RPL28	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS16	RPL13	0.00979536958038807	Pathway	Wu-Stein-2010
+RPL12	RPS18	0.00979536958038807	Pathway	Wu-Stein-2010
+RPL12	RPS11	0.00979536958038807	Pathway	Wu-Stein-2010
+RPL12	RPS29	0.00979536958038807	Pathway	Wu-Stein-2010
+RPL12	RPS16	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS9	RPL8	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS9	RPL19	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS9	RPL37A	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS9	RPL13	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS25	RPL8	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS25	RPL19	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS25	RPLP0	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS25	RPLP1	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS25	RPL37A	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS25	RPL28	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS25	RPL13	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS25	RPL12	0.00979536958038807	Pathway	Wu-Stein-2010
+RPL31	RPS17	0.00979536958038807	Pathway	Wu-Stein-2010
+RPL31	RPS19	0.00979536958038807	Pathway	Wu-Stein-2010
+RPL31	RPS18	0.00979536958038807	Pathway	Wu-Stein-2010
+RPL31	RPS2	0.00979536958038807	Pathway	Wu-Stein-2010
+RPL31	RPS11	0.00979536958038807	Pathway	Wu-Stein-2010
+RPL31	RPS15	0.00979536958038807	Pathway	Wu-Stein-2010
+RPL31	RPS29	0.00979536958038807	Pathway	Wu-Stein-2010
+RPL31	RPS10	0.00979536958038807	Pathway	Wu-Stein-2010
+RPL31	RPS16	0.00979536958038807	Pathway	Wu-Stein-2010
+RPL31	RPS9	0.00979536958038807	Pathway	Wu-Stein-2010
+RPL31	RPS25	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS28	RPL8	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS28	RPL19	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS28	RPLP0	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS28	RPLP1	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS28	RPL37A	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS28	RPL28	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS28	RPL13	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS28	RPL12	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS28	RPL31	0.00979536958038807	Pathway	Wu-Stein-2010
+RPL41	RPS18	0.00979536958038807	Pathway	Wu-Stein-2010
+RPL41	RPS11	0.00979536958038807	Pathway	Wu-Stein-2010
+RPL41	RPS29	0.00979536958038807	Pathway	Wu-Stein-2010
+RPL41	RPS16	0.00979536958038807	Pathway	Wu-Stein-2010
+RPL41	RPS25	0.00979536958038807	Pathway	Wu-Stein-2010
+RPL41	RPS28	0.00979536958038807	Pathway	Wu-Stein-2010
+RPL18	RPS18	0.00979536958038807	Pathway	Wu-Stein-2010
+RPL18	RPS11	0.00979536958038807	Pathway	Wu-Stein-2010
+RPL18	RPS29	0.00979536958038807	Pathway	Wu-Stein-2010
+RPL18	RPS16	0.00979536958038807	Pathway	Wu-Stein-2010
+RPL18	RPS25	0.00979536958038807	Pathway	Wu-Stein-2010
+RPL18	RPS28	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS4X	RPL8	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS4X	RPL19	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS4X	RPLP0	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS4X	RPLP1	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS4X	RPL37A	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS4X	RPL28	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS4X	RPL13	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS4X	RPL12	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS4X	RPL31	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS4X	RPL41	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS4X	RPL18	0.00979536958038807	Pathway	Wu-Stein-2010
+RPS3A	RPL8	0.009696902707219124	Pathway	Wu-Stein-2010
+RPS3A	RPL19	0.009696902707219124	Pathway	Wu-Stein-2010
+RPS3A	RPLP0	0.009696902707219124	Pathway	Wu-Stein-2010
+RPS3A	RPLP1	0.009696902707219124	Pathway	Wu-Stein-2010
+RPS3A	RPL37A	0.009696902707219124	Pathway	Wu-Stein-2010
+RPS3A	RPL28	0.009696902707219124	Pathway	Wu-Stein-2010
+RPS3A	RPL13	0.009696902707219124	Pathway	Wu-Stein-2010
+RPS3A	RPL12	0.009696902707219124	Pathway	Wu-Stein-2010
+RPS3A	RPL31	0.009696902707219124	Pathway	Wu-Stein-2010
+RPL41	RPS3A	0.009696902707219124	Pathway	Wu-Stein-2010
+RPL18	RPS3A	0.009696902707219124	Pathway	Wu-Stein-2010
+RPS18	EEF1A1	0.009275543503463268	Pathway	Wu-Stein-2010
+RPS11	EEF1A1	0.009275543503463268	Pathway	Wu-Stein-2010
+RPS29	EEF1A1	0.009275543503463268	Pathway	Wu-Stein-2010
+RPS16	EEF1A1	0.009275543503463268	Pathway	Wu-Stein-2010
+RPS25	EEF1A1	0.009275543503463268	Pathway	Wu-Stein-2010
+RPS28	EEF1A1	0.009275543503463268	Pathway	Wu-Stein-2010
+RPS4X	EEF1A1	0.009275543503463268	Pathway	Wu-Stein-2010
+RPS3A	EEF1A1	0.009182300418615341	Pathway	Wu-Stein-2010
+ESR1	TERT	0.008785978890955448	Pathway	Wu-Stein-2010
+RPS18	RPS17	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS18	RPS19	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS2	RPS18	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS11	RPS17	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS11	RPS19	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS11	RPS18	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS11	RPS2	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS15	RPS18	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS15	RPS11	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS29	RPS17	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS29	RPS19	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS29	RPS18	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS29	RPS2	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS29	RPS11	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS29	RPS15	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS10	RPS18	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS10	RPS11	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS10	RPS29	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS16	RPS17	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS16	RPS19	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS16	RPS18	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS16	RPS2	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS16	RPS11	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS16	RPS15	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS16	RPS29	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS16	RPS10	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS9	RPS18	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS9	RPS11	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS9	RPS29	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS9	RPS16	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS25	RPS17	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS25	RPS19	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS25	RPS18	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS25	RPS2	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS25	RPS11	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS25	RPS15	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS25	RPS29	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS25	RPS10	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS25	RPS16	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS25	RPS9	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS28	RPS17	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS28	RPS19	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS28	RPS18	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS28	RPS2	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS28	RPS11	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS28	RPS15	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS28	RPS29	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS28	RPS10	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS28	RPS16	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS28	RPS9	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS28	RPS25	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS4X	RPS17	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS4X	RPS19	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS4X	RPS18	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS4X	RPS2	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS4X	RPS11	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS4X	RPS15	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS4X	RPS29	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS4X	RPS10	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS4X	RPS16	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS4X	RPS9	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS4X	RPS25	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS4X	RPS28	0.00808353815227747	Pathway	Wu-Stein-2010
+RPS3A	RPS17	0.008002279326319695	Pathway	Wu-Stein-2010
+RPS3A	RPS19	0.008002279326319695	Pathway	Wu-Stein-2010
+RPS3A	RPS18	0.008002279326319695	Pathway	Wu-Stein-2010
+RPS3A	RPS2	0.008002279326319695	Pathway	Wu-Stein-2010
+RPS3A	RPS11	0.008002279326319695	Pathway	Wu-Stein-2010
+RPS3A	RPS15	0.008002279326319695	Pathway	Wu-Stein-2010
+RPS3A	RPS29	0.008002279326319695	Pathway	Wu-Stein-2010
+RPS3A	RPS10	0.008002279326319695	Pathway	Wu-Stein-2010
+RPS3A	RPS16	0.008002279326319695	Pathway	Wu-Stein-2010
+RPS3A	RPS9	0.008002279326319695	Pathway	Wu-Stein-2010
+RPS3A	RPS25	0.008002279326319695	Pathway	Wu-Stein-2010
+RPS28	RPS3A	0.008002279326319695	Pathway	Wu-Stein-2010
+RPS4X	RPS3A	0.008002279326319695	Pathway	Wu-Stein-2010
+LDHA	LDHB	1.3008723873645067	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID; IREF-INTACT; Kristensen-Foster-2012
+KIT	KITLG	1.2059554159641266	Physical&nbsp;interactions	BIOGRID-SMALL-SCALE-STUDIES; IREF-BIOGRID; IREF-INTACT
+RPL28	RPL8	0.45885615050792694	Physical&nbsp;interactions	IREF-BIOGRID; Kristensen-Foster-2012
+RPL8	ATF7IP	0.362810293212533	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPLP1	RPL19	0.32624703738838434	Physical&nbsp;interactions	IREF-BIOGRID; Kristensen-Foster-2012
+RPS4X	RPS17	0.2630200516432524	Physical&nbsp;interactions	BIOGRID-SMALL-SCALE-STUDIES; Havugimana-Emili-2012; IREF-BIOGRID
+RPS25	RPL8	0.20326462108641863	Physical&nbsp;interactions	IREF-BIOGRID; Kristensen-Foster-2012
+RPLP1	RPLP0	0.18327029515057802	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID; Kristensen-Foster-2012
+RPS4X	RPS15	0.17982816696166992	Physical&nbsp;interactions	BIOGRID-SMALL-SCALE-STUDIES; IREF-BIOGRID
+RPS29	RPS15	0.15586892049759626	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID; Kristensen-Foster-2012
+RPS4X	RPS11	0.15204954240471125	Physical&nbsp;interactions	BIOGRID-SMALL-SCALE-STUDIES; Havugimana-Emili-2012; IREF-BIOGRID; Kristensen-Foster-2012
+EEF1A1	GAPDH	0.15003956947475672	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID; Kristensen-Foster-2012
+RPL18	RPL13	0.12708315160125494	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID; Kristensen-Foster-2012
+ESR1	HSP90AB1	0.12622482795268297	Physical&nbsp;interactions	Cheng-Chen-2010; IREF-BIOGRID; IREF-INTACT; Taipale-Lindquist-2012
+RPS4X	RPS10	0.12297461042180657	Physical&nbsp;interactions	BIOGRID-SMALL-SCALE-STUDIES; Havugimana-Emili-2012; IREF-BIOGRID; Kristensen-Foster-2012
+RPS4X	RPS19	0.12191719142720103	Physical&nbsp;interactions	BIOGRID-SMALL-SCALE-STUDIES; Havugimana-Emili-2012; IREF-BIOGRID; Kristensen-Foster-2012
+RPS4X	RPS9	0.11763831367716193	Physical&nbsp;interactions	BIOGRID-SMALL-SCALE-STUDIES; IREF-BIOGRID; Kristensen-Foster-2012
+RPS25	RPS15	0.11657779477536678	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID; Kristensen-Foster-2012
+RPS15	RPS19	0.11546167731285095	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID; Kristensen-Foster-2012
+RPL13	RPL19	0.1149967797100544	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID; Kristensen-Foster-2012
+RPS4X	RPS16	0.10786015633493662	Physical&nbsp;interactions	BIOGRID-SMALL-SCALE-STUDIES; Havugimana-Emili-2012; IREF-BIOGRID; Kristensen-Foster-2012
+ENO1	GAPDH	0.10587333049625158	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS15	RPS2	0.10576126025989652	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID; Kristensen-Foster-2012
+RPS4X	RPS18	0.10355726210400462	Physical&nbsp;interactions	BIOGRID-SMALL-SCALE-STUDIES; IREF-BIOGRID; Kristensen-Foster-2012
+RPS10	RPS29	0.10301070380955935	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID; Kristensen-Foster-2012
+RPS9	RPS29	0.10243527777493	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID; Kristensen-Foster-2012
+RPL18	RPLP0	0.09478007955476642	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID; Kristensen-Foster-2012
+RPS10	RPS15	0.09234412480145693	Physical&nbsp;interactions	IREF-BIOGRID; Kristensen-Foster-2012
+RPS4X	RPS2	0.09056432405486703	Physical&nbsp;interactions	BIOGRID-SMALL-SCALE-STUDIES; Havugimana-Emili-2012; IREF-BIOGRID; Kristensen-Foster-2012
+RPLP0	RPL19	0.08603561948984861	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID; Kristensen-Foster-2012
+RPS9	RPS15	0.08455016184598207	Physical&nbsp;interactions	IREF-BIOGRID; Kristensen-Foster-2012
+RPS9	ESR1	0.08452305186074227	Physical&nbsp;interactions	BIOGRID-SMALL-SCALE-STUDIES; IREF-BIOGRID; Tarallo-Weisz-2011
+RPS29	RPL28	0.08397257886826992	Physical&nbsp;interactions	IREF-BIOGRID; Kristensen-Foster-2012
+RPL18	ESR1	0.08136893960181624	Physical&nbsp;interactions	BIOGRID-SMALL-SCALE-STUDIES; IREF-BIOGRID; Tarallo-Weisz-2011
+RPL28	RPS19	0.07882740162312984	Physical&nbsp;interactions	IREF-BIOGRID; Kristensen-Foster-2012
+ESR1	RPLP0	0.07659772643819451	Physical&nbsp;interactions	BIOGRID-SMALL-SCALE-STUDIES; IREF-BIOGRID; Tarallo-Weisz-2011
+RPS29	RPS17	0.0765906535089016	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPL28	RPS18	0.07631109654903412	Physical&nbsp;interactions	IREF-BIOGRID; Kristensen-Foster-2012
+RPS10	RPL28	0.07522644847631454	Physical&nbsp;interactions	IREF-BIOGRID; Kristensen-Foster-2012
+RPL13	RPLP0	0.07508489489555359	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID; Kristensen-Foster-2012
+RPL28	RPS2	0.07231237553060055	Physical&nbsp;interactions	IREF-BIOGRID; Kristensen-Foster-2012
+RPS3A	RPL28	0.07117149326950312	Physical&nbsp;interactions	IREF-BIOGRID; Kristensen-Foster-2012
+HSP90AB1	ENO1	0.07064890081528574	Physical&nbsp;interactions	Blandin-Richard-2013; IREF-INTACT
+RPS4X	ESR1	0.07005016470793635	Physical&nbsp;interactions	BIOGRID-SMALL-SCALE-STUDIES; IREF-BIOGRID; Tarallo-Weisz-2011
+RPS16	RPS29	0.06874342542141676	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID; Kristensen-Foster-2012
+RPL28	ESR1	0.06812678975984454	Physical&nbsp;interactions	IREF-BIOGRID; Tarallo-Weisz-2011
+RPS10	RPS11	0.06802256358787417	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID; Kristensen-Foster-2012
+RPL12	ESR1	0.06630883424077183	Physical&nbsp;interactions	IREF-BIOGRID; Tarallo-Weisz-2011
+RPL13	ESR1	0.06630581116769463	Physical&nbsp;interactions	IREF-BIOGRID; Tarallo-Weisz-2011
+ESR1	RPL8	0.06620516860857606	Physical&nbsp;interactions	IREF-BIOGRID; Tarallo-Weisz-2011
+ESR1	RPS18	0.06615721818525344	Physical&nbsp;interactions	IREF-BIOGRID; Tarallo-Weisz-2011
+RPL37A	ESR1	0.06609545950777829	Physical&nbsp;interactions	IREF-BIOGRID; Tarallo-Weisz-2011
+ESR1	RPL19	0.06599973840638995	Physical&nbsp;interactions	IREF-BIOGRID; Tarallo-Weisz-2011
+RPS16	ESR1	0.06587543548084795	Physical&nbsp;interactions	IREF-BIOGRID; Tarallo-Weisz-2011
+ESR1	GAPDH	0.06575540476478636	Physical&nbsp;interactions	IREF-BIOGRID; Tarallo-Weisz-2011
+RPS3A	ESR1	0.06571584241464734	Physical&nbsp;interactions	IREF-BIOGRID; Tarallo-Weisz-2011
+RPS2	ESR1	0.06570783781353384	Physical&nbsp;interactions	IREF-BIOGRID; Tarallo-Weisz-2011
+HSP90AB1	STK11	0.06538656167685986	Physical&nbsp;interactions	IREF-INTACT; Taipale-Lindquist-2012
+LDHA	ESR1	0.06435719644650817	Physical&nbsp;interactions	Cheng-Chen-2010; IREF-BIOGRID
+ESR1	ENO1	0.0643107290379703	Physical&nbsp;interactions	Cheng-Chen-2010; IREF-BIOGRID
+ESR1	RPS17	0.06397215509787202	Physical&nbsp;interactions	Cheng-Chen-2010; IREF-BIOGRID
+HSP90AB1	FGFR3	0.06377393356524408	Physical&nbsp;interactions	BIOGRID-SMALL-SCALE-STUDIES; IREF-BIOGRID; IREF-INTACT; Taipale-Lindquist-2012
+RPS10	ESR1	0.06364019063767046	Physical&nbsp;interactions	Cheng-Chen-2010; IREF-BIOGRID
+RPS25	ESR1	0.06355308939237148	Physical&nbsp;interactions	Cheng-Chen-2010; IREF-BIOGRID
+ESR1	EEF2	0.0635521374642849	Physical&nbsp;interactions	Cheng-Chen-2010; IREF-BIOGRID
+RPS11	ESR1	0.06346322875469923	Physical&nbsp;interactions	Cheng-Chen-2010; IREF-BIOGRID
+RPL31	ESR1	0.06342691730242223	Physical&nbsp;interactions	Cheng-Chen-2010; IREF-BIOGRID
+ESR1	RPS19	0.06337924476247281	Physical&nbsp;interactions	Cheng-Chen-2010; IREF-BIOGRID
+ESR1	EEF1A1	0.06276325025828555	Physical&nbsp;interactions	Cheng-Chen-2010; IREF-BIOGRID
+RPS11	RPS2	0.05709497211501002	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID; Kristensen-Foster-2012
+RPS25	RPS10	0.055966644547879696	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID; Kristensen-Foster-2012
+RPS28	RPS9	0.05504107195883989	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID; Kristensen-Foster-2012
+RPS11	ESR2	0.05455402052029967	Physical&nbsp;interactions	BIOGRID-SMALL-SCALE-STUDIES; IREF-BIOGRID
+RPS25	RPS9	0.054351440630853176	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID; Kristensen-Foster-2012
+RPL8	FGFR3	0.05415787920355797	Physical&nbsp;interactions	IREF-BIOGRID; IREF-INTACT
+RPS28	RPS25	0.05179570987820625	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID; Kristensen-Foster-2012
+RPS10	RPS19	0.050886284094303846	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID; Kristensen-Foster-2012
+RPS9	RPS19	0.048969900235533714	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID; Kristensen-Foster-2012
+RPS15	RPS18	0.04886992461979389	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS28	RPS19	0.04826165456324816	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID; Kristensen-Foster-2012
+RPS25	RPS19	0.0475646136328578	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID; Kristensen-Foster-2012
+RPS16	RPS10	0.04720300901681185	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID; Kristensen-Foster-2012
+RPS3A	RPS10	0.046567068900913	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID; Kristensen-Foster-2012
+RPS9	RPS16	0.04539704602211714	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID; Kristensen-Foster-2012
+RPS4X	RPS28	0.04524803766980767	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID; Kristensen-Foster-2012
+RPS28	RPS16	0.044973555486649275	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID; Kristensen-Foster-2012
+RPS10	RPS2	0.044762625358998775	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID; Kristensen-Foster-2012
+RPS3A	RPS9	0.04476212942972779	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID; Kristensen-Foster-2012
+RPS4X	RPS25	0.04461657581850886	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID; Kristensen-Foster-2012
+RPS18	ESR2	0.04459532909095287	Physical&nbsp;interactions	BIOGRID-SMALL-SCALE-STUDIES; IREF-BIOGRID
+RPS25	RPS16	0.04427445540204644	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID; Kristensen-Foster-2012
+RPS9	RPS11	0.04411579295992851	Physical&nbsp;interactions	IREF-BIOGRID; Kristensen-Foster-2012
+RPS15	FN1	0.04368634149432182	Physical&nbsp;interactions	Humphries-Humphries-2009
+RPL28	FN1	0.04368634149432182	Physical&nbsp;interactions	Humphries-Humphries-2009
+RPL31	FN1	0.04368634149432182	Physical&nbsp;interactions	Humphries-Humphries-2009
+RPS3A	RPS25	0.04346044082194567	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID; Kristensen-Foster-2012
+RPS28	RPS2	0.042871184181421995	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID; Kristensen-Foster-2012
+RPS9	RPS2	0.04285887349396944	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID; Kristensen-Foster-2012
+RPS25	RPS2	0.042300257831811905	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID; Kristensen-Foster-2012
+RPS16	RPS19	0.0421373313292861	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID; Kristensen-Foster-2012
+RPS3A	RPS19	0.041275981813669205	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID; Kristensen-Foster-2012
+RPS9	RPS17	0.04125543311238289	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS2	RPS19	0.04053803673014045	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID; Kristensen-Foster-2012
+RPS10	RPLP1	0.03948820102959871	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPLP1	RPS17	0.03930692654103041	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS4X	RPS3A	0.0390465478412807	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID; Kristensen-Foster-2012
+FN1	GAPDH	0.03855422977358103	Physical&nbsp;interactions	BIOGRID-SMALL-SCALE-STUDIES; Humphries-Humphries-2009; IREF-BIOGRID
+RPS3A	RPS16	0.038484536577016115	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID; Kristensen-Foster-2012
+RPS28	RPS29	0.03835842665284872	Physical&nbsp;interactions	IREF-BIOGRID; Kristensen-Foster-2012
+RPS16	RPS2	0.037844748236238956	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID; Kristensen-Foster-2012
+RPS15	RPS17	0.037719796411693096	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS3A	RPS2	0.037068215664476156	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID; Kristensen-Foster-2012
+RPS29	RPS19	0.03657293692231178	Physical&nbsp;interactions	IREF-BIOGRID; Kristensen-Foster-2012
+RPS25	RPS29	0.03648113273084164	Physical&nbsp;interactions	IREF-BIOGRID; Kristensen-Foster-2012
+RPS15	RPLP1	0.03641169797629118	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+ENO1	TERT	0.03639666177332401	Physical&nbsp;interactions	BIOGRID-SMALL-SCALE-STUDIES; IREF-BIOGRID
+RPS29	RPS18	0.035837029106915	Physical&nbsp;interactions	IREF-BIOGRID; Kristensen-Foster-2012
+RPS4X	RPS29	0.03520491626113653	Physical&nbsp;interactions	IREF-BIOGRID; Kristensen-Foster-2012
+RPS28	RPS18	0.03469291049987078	Physical&nbsp;interactions	IREF-BIOGRID; Kristensen-Foster-2012
+RPS28	RPS10	0.03423033934086561	Physical&nbsp;interactions	IREF-BIOGRID; Kristensen-Foster-2012
+RPLP0	ESR2	0.033758317586034536	Physical&nbsp;interactions	BIOGRID-SMALL-SCALE-STUDIES; IREF-BIOGRID
+RPS10	RPLP0	0.033738295547664165	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS18	RPS19	0.03363007819280028	Physical&nbsp;interactions	IREF-BIOGRID; Kristensen-Foster-2012
+RPS29	RPS2	0.03336418280377984	Physical&nbsp;interactions	IREF-BIOGRID; Kristensen-Foster-2012
+RPS25	RPS18	0.03327428922057152	Physical&nbsp;interactions	IREF-BIOGRID; Kristensen-Foster-2012
+RPS3A	RPS29	0.032876390498131514	Physical&nbsp;interactions	IREF-BIOGRID; Kristensen-Foster-2012
+RPS28	RPS17	0.032624407671391964	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS28	RPS3A	0.03215360688045621	Physical&nbsp;interactions	IREF-BIOGRID; Kristensen-Foster-2012
+RPS10	RPS18	0.03210004046559334	Physical&nbsp;interactions	IREF-BIOGRID; Kristensen-Foster-2012
+RPS16	RPS18	0.03173822397366166	Physical&nbsp;interactions	IREF-BIOGRID; Kristensen-Foster-2012
+RPS25	RPS17	0.03156684245914221	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS9	RPL8	0.031269267201423645	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS3A	HSP90AB1	0.031145415268838406	Physical&nbsp;interactions	BIOGRID-SMALL-SCALE-STUDIES; IREF-BIOGRID
+RPS2	RPS18	0.030848292633891106	Physical&nbsp;interactions	IREF-BIOGRID; Kristensen-Foster-2012
+RPL8	RPS17	0.03077394887804985	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS25	RPLP1	0.03077278845012188	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS28	RPS15	0.03070365358144045	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS28	RPL13	0.03039630874991417	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS3A	RPS18	0.03036206914111972	Physical&nbsp;interactions	IREF-BIOGRID; Kristensen-Foster-2012
+RPS9	RPS18	0.03018878772854805	Physical&nbsp;interactions	IREF-BIOGRID; Kristensen-Foster-2012
+HSP90AB1	RPLP0	0.030001824256032705	Physical&nbsp;interactions	BIOGRID-SMALL-SCALE-STUDIES; IREF-BIOGRID
+RPS9	RPS10	0.029823635704815388	Physical&nbsp;interactions	IREF-BIOGRID; Kristensen-Foster-2012
+RPS25	RPL13	0.02952238917350769	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS9	RPL12	0.029379982501268387	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPL12	RPS17	0.029188229702413082	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+LDHA	HSP90AB1	0.028180977795273066	Physical&nbsp;interactions	BIOGRID-SMALL-SCALE-STUDIES; IREF-BIOGRID
+RPL12	RPLP1	0.027934006415307522	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS11	RPLP1	0.02734001399949193	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPL37A	RPS17	0.027279303409159184	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPL12	RPL13	0.027130713686347008	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPL31	RPS17	0.026702684350311756	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS25	RPLP0	0.026450153905898333	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPL31	RPS10	0.0263365781866014	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPLP0	RPL8	0.025684417225420475	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPL18	RPS9	0.02561589516699314	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPL18	RPS17	0.025436202995479107	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPL13	RPL37A	0.025413231924176216	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+HSP90AB1	EEF2	0.025050226133316755	Physical&nbsp;interactions	BIOGRID-SMALL-SCALE-STUDIES; IREF-BIOGRID
+RPS9	RPL19	0.024770786985754967	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+FN1	RPS17	0.0247244443744421	Physical&nbsp;interactions	Humphries-Humphries-2009
+FN1	RPS19	0.0247244443744421	Physical&nbsp;interactions	Humphries-Humphries-2009
+FN1	ENO1	0.0247244443744421	Physical&nbsp;interactions	Humphries-Humphries-2009
+FN1	EEF1A1	0.0247244443744421	Physical&nbsp;interactions	Humphries-Humphries-2009
+FN1	LDHB	0.0247244443744421	Physical&nbsp;interactions	Humphries-Humphries-2009
+FN1	RPL8	0.0247244443744421	Physical&nbsp;interactions	Humphries-Humphries-2009
+FN1	EEF2	0.0247244443744421	Physical&nbsp;interactions	Humphries-Humphries-2009
+FN1	RPS18	0.0247244443744421	Physical&nbsp;interactions	Humphries-Humphries-2009
+FN1	RPLP0	0.0247244443744421	Physical&nbsp;interactions	Humphries-Humphries-2009
+FN1	HSP90AB1	0.0247244443744421	Physical&nbsp;interactions	Humphries-Humphries-2009
+RPS2	FN1	0.0247244443744421	Physical&nbsp;interactions	Humphries-Humphries-2009
+RPS11	FN1	0.0247244443744421	Physical&nbsp;interactions	Humphries-Humphries-2009
+LDHA	FN1	0.0247244443744421	Physical&nbsp;interactions	Humphries-Humphries-2009
+RPL13	FN1	0.0247244443744421	Physical&nbsp;interactions	Humphries-Humphries-2009
+RPS10	FN1	0.0247244443744421	Physical&nbsp;interactions	Humphries-Humphries-2009
+RPS16	FN1	0.0247244443744421	Physical&nbsp;interactions	Humphries-Humphries-2009
+RPL12	FN1	0.0247244443744421	Physical&nbsp;interactions	Humphries-Humphries-2009
+RPS9	FN1	0.0247244443744421	Physical&nbsp;interactions	Humphries-Humphries-2009
+RPS25	FN1	0.0247244443744421	Physical&nbsp;interactions	Humphries-Humphries-2009
+RPS3A	FN1	0.0247244443744421	Physical&nbsp;interactions	Humphries-Humphries-2009
+RPS28	FN1	0.0247244443744421	Physical&nbsp;interactions	Humphries-Humphries-2009
+RPL18	FN1	0.0247244443744421	Physical&nbsp;interactions	Humphries-Humphries-2009
+RPS4X	FN1	0.0247244443744421	Physical&nbsp;interactions	Humphries-Humphries-2009
+RPL19	RPS17	0.024533146992325783	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPLP1	RPS19	0.024515252094715834	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS28	RPL12	0.023921186104416847	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS11	RPLP0	0.02354362141340971	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS16	RPS17	0.023261986672878265	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS3A	RPS17	0.02283838763833046	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS25	RPL12	0.022795597091317177	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPL12	RPL8	0.02245658729225397	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS16	RPLP1	0.022433584555983543	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPL31	RPLP0	0.022307795006781816	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS3A	RPLP1	0.02225287351757288	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS28	RPL37A	0.022238120436668396	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPL12	EEF2	0.02190473023802042	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS16	RPS15	0.02188435010612011	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS16	HSP90AB1	0.02181848604232073	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS16	RPL13	0.0216772286221385	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS3A	RPL13	0.021355697885155678	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS3A	RPS15	0.021335129160434008	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS25	RPL37A	0.021316271740943193	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS4X	RPLP1	0.021310325246304274	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPL18	RPS28	0.020837092772126198	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS2	RPS17	0.02065926603972912	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS4X	RPL13	0.020570476073771715	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPL12	RPS11	0.020435749553143978	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPL31	RPL8	0.020410762634128332	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS28	RPL19	0.020050707273185253	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPL12	RPL37A	0.020011489279568195	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPL31	EEF2	0.0199927962385118	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS2	RPLP1	0.01998031046241522	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPL18	RPS25	0.019866202026605606	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPL18	RPL8	0.019564270041882992	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS2	HSP90AB1	0.01955557963810861	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPL31	RPL12	0.019436553120613098	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS16	RPLP0	0.019384817220270634	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPL13	RPS2	0.019270063377916813	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS25	RPL19	0.019165425095707178	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS3A	RPLP0	0.019131668377667665	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPL18	EEF2	0.019087005872279406	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS11	RPL37A	0.019071428570896387	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+EEF2	RPS19	0.018967662937939167	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPL19	RPL8	0.018840993754565716	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPL18	RPL12	0.018812361173331738	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPL31	RPS11	0.018644664902240038	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPL12	RPS19	0.01846689498052001	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS4X	RPLP0	0.01840010518208146	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPL31	RPL37A	0.018119760788977146	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPL12	RPL19	0.018074220046401024	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS16	RPL8	0.017826498951762915	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPL18	RPS11	0.017806677613407373	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS11	RPS19	0.017689364030957222	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS16	EEF2	0.01743264077231288	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPL18	RPL37A	0.017431202344596386	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS3A	RPL8	0.01740791741758585	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS2	RPLP0	0.017240780871361494	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPL37A	RPS19	0.017204583156853914	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS11	RPL19	0.017163562588393688	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS3A	EEF2	0.017082385253161192	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPL12	RPS16	0.01704402780160308	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPL18	RPL31	0.016934553626924753	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS4X	RPL8	0.016893929336220026	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPL31	RPS19	0.016794536728411913	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPL37A	RPL19	0.01677202619612217	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS4X	ESR2	0.01662710588425398	Physical&nbsp;interactions	BIOGRID-SMALL-SCALE-STUDIES; IREF-BIOGRID
+RPS4X	EEF2	0.01652926579117775	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS3A	RPL12	0.0165035892277956	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPL31	RPL19	0.01631539734080434	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS16	RPS11	0.01625967165455222	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS4X	RPL12	0.016131998039782047	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPL18	RPS19	0.016088854521512985	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS3A	RPS11	0.015927790198475122	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS16	RPL37A	0.01584922382608056	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS2	RPL8	0.01580852922052145	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPL18	RPL19	0.015741612762212753	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPL19	RPS19	0.01549621019512415	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS2	EEF2	0.015473975334316492	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPL31	RPS16	0.015446113888174295	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS3A	RPL37A	0.015428563114255667	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS3A	RPL31	0.01510611129924655	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPL12	RPS2	0.015079694800078869	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS4X	RPL37A	0.015013037715107203	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPL18	RPS16	0.014846925158053637	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS4X	RPL31	0.014641368295997381	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+HSP90AB1	GAPDH	0.014395014848560095	Physical&nbsp;interactions	BIOGRID-SMALL-SCALE-STUDIES; IREF-BIOGRID
+RPL18	RPS3A	0.014382451307028532	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS16	RPL19	0.014288334175944328	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS4X	RPL18	0.014053378719836473	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPL37A	RPS2	0.014042996801435947	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS3A	ATF7IP	0.014016433618962765	Physical&nbsp;interactions	IREF-INTACT
+RPS4X	HSP90AB1	0.013910303823649883	Physical&nbsp;interactions	BIOGRID-SMALL-SCALE-STUDIES; IREF-BIOGRID
+RPS3A	RPL19	0.01387353241443634	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPL31	RPS2	0.013703256845474243	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS4X	RPL19	0.013529326301068068	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPL18	RPS2	0.013137379195541143	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+EEF2	EEF1A1	0.012658699182793498	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS2	RPL19	0.012651128694415092	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPL12	EEF1A1	0.01202853606082499	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS11	EEF1A1	0.01179782091639936	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPLP1	EEF1A1	0.011624432634562254	Physical&nbsp;interactions	IREF-BIOGRID; IREF-INTACT
+RPL31	EEF1A1	0.01116405543871224	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+EEF1A1	RPS19	0.010573827661573887	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS10	RPS17	0.010548111982643604	Physical&nbsp;interactions	IREF-BIOGRID
+RPL18	EEF1A1	0.0104890379589051	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS16	EEF1A1	0.009670829866081476	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS3A	EEF1A1	0.009607197484001517	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS11	RPS17	0.009306362830102444	Physical&nbsp;interactions	IREF-BIOGRID
+RPS4X	EEF1A1	0.009188682306557894	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+RPS19	RPS17	0.008717043325304985	Physical&nbsp;interactions	IREF-BIOGRID
+RPS2	EEF1A1	0.008616810431703925	Physical&nbsp;interactions	Havugimana-Emili-2012; IREF-BIOGRID
+ESR1	ESR2	0.003620011149905622	Physical&nbsp;interactions	BIOGRID-SMALL-SCALE-STUDIES; IREF-BIOGRID
+RPL12	RPS10	0.6160473637282848	Predicted	I2D-BioGRID-Yeast2Human; I2D-MINT-Yeast2Human
+RPL37A	RPS18	0.2109698448330164	Predicted	I2D-vonMering-Bork-2002-Low-Yeast2Human; Stuart-Kim-2003
+RPL31	RPS19	0.21055024676024914	Predicted	I2D-vonMering-Bork-2002-Medium-Yeast2Human; Stuart-Kim-2003
+RPL37A	RPS17	0.19846120662987232	Predicted	I2D-vonMering-Bork-2002-Low-Yeast2Human; Stuart-Kim-2003
+RPS25	RPS17	0.1544599812477827	Predicted	I2D-vonMering-Bork-2002-Low-Yeast2Human; Stuart-Kim-2003
+EEF2	EEF1A1	0.13469630759209394	Predicted	I2D-BioGRID-Yeast2Human; I2D-Krogan-Greenblatt-2006-NonCore-Yeast2Human; I2D-vonMering-Bork-2002-Low-Yeast2Human
+RPS18	RPS17	0.12439141981303692	Predicted	I2D-BioGRID-Yeast2Human; I2D-vonMering-Bork-2002-Low-Yeast2Human; Stuart-Kim-2003
+RPLP0	EEF1A1	0.09455054998397827	Predicted	I2D-MINT-Yeast2Human; Stuart-Kim-2003
+ENO1	GAPDH	0.09243397414684296	Predicted	Stuart-Kim-2003
+RPS25	RPS16	0.08933337219059467	Predicted	I2D-BioGRID-Yeast2Human; Stuart-Kim-2003
+RPS2	RPL19	0.08001510612666607	Predicted	I2D-BioGRID-Yeast2Human; I2D-vonMering-Bork-2002-Medium-Yeast2Human; Stuart-Kim-2003
+RPL18	RPS18	0.07954377122223377	Predicted	I2D-vonMering-Bork-2002-Medium-Yeast2Human; Stuart-Kim-2003
+RPS11	RPS18	0.07942689210176468	Predicted	I2D-BioGRID-Yeast2Human; I2D-vonMering-Bork-2002-Medium-Yeast2Human; Stuart-Kim-2003
+RPL18	RPS16	0.07720675598829985	Predicted	I2D-BioGRID-Yeast2Human; I2D-vonMering-Bork-2002-Medium-Yeast2Human
+RPS15	RPS2	0.0698034344241023	Predicted	I2D-BioGRID-Yeast2Human; I2D-vonMering-Bork-2002-Medium-Yeast2Human; Stuart-Kim-2003
+RPL12	RPS2	0.06634369771927595	Predicted	I2D-BioGRID-Yeast2Human; I2D-vonMering-Bork-2002-Medium-Yeast2Human; Stuart-Kim-2003
+RPS28	RPS9	0.06570804119110107	Predicted	I2D-BioGRID-Yeast2Human
+RPS18	RPL8	0.0621921643614769	Predicted	I2D-BioGRID-Yeast2Human; I2D-vonMering-Bork-2002-Medium-Yeast2Human; Stuart-Kim-2003
+RPS11	RPL19	0.05924157612025738	Predicted	I2D-BioGRID-Yeast2Human; I2D-vonMering-Bork-2002-Medium-Yeast2Human
+RPS4X	RPL31	0.05625694617629051	Predicted	Stuart-Kim-2003
+RPL31	RPL19	0.05475330166518688	Predicted	I2D-BioGRID-Yeast2Human; Stuart-Kim-2003
+RPL12	RPL8	0.05327292252331972	Predicted	I2D-BioGRID-Yeast2Human; I2D-vonMering-Bork-2002-Medium-Yeast2Human; Stuart-Kim-2003
+RPS4X	RPS11	0.0519971614703536	Predicted	I2D-BioGRID-Yeast2Human; I2D-vonMering-Bork-2002-Medium-Yeast2Human
+RPS15	RPL19	0.05141389183700085	Predicted	I2D-BioGRID-Yeast2Human; I2D-vonMering-Bork-2002-Medium-Yeast2Human
+RPLP0	RPL8	0.05063941329717636	Predicted	I2D-BioGRID-Yeast2Human; I2D-vonMering-Bork-2002-Medium-Yeast2Human; Stuart-Kim-2003
+RPS16	RPS2	0.050477148965001106	Predicted	I2D-BioGRID-Yeast2Human; I2D-vonMering-Bork-2002-Medium-Yeast2Human
+RPS2	RPL8	0.049005571752786636	Predicted	I2D-BioGRID-Yeast2Human; I2D-vonMering-Bork-2002-Medium-Yeast2Human; Stuart-Kim-2003
+RPS16	RPS15	0.04643896594643593	Predicted	I2D-BioGRID-Yeast2Human; I2D-vonMering-Bork-2002-Medium-Yeast2Human
+RPS15	RPL8	0.046337890438735485	Predicted	I2D-BioGRID-Yeast2Human; I2D-vonMering-Bork-2002-Medium-Yeast2Human; Stuart-Kim-2003
+RPS11	RPL8	0.04610907658934593	Predicted	I2D-BioGRID-Yeast2Human; I2D-vonMering-Bork-2002-Medium-Yeast2Human; Stuart-Kim-2003
+RPL18	EEF2	0.04521509166806936	Predicted	I2D-BioGRID-Yeast2Human; Stuart-Kim-2003
+RPS28	RPLP1	0.043619249016046524	Predicted	Stuart-Kim-2003
+RPS16	RPS10	0.04337123781442642	Predicted	Stuart-Kim-2003
+RPS28	RPL28	0.04277210310101509	Predicted	Stuart-Kim-2003
+RPS29	RPL19	0.04192514717578888	Predicted	I2D-vonMering-Bork-2002-Medium-Yeast2Human
+RPS4X	RPS29	0.04192514717578888	Predicted	I2D-vonMering-Bork-2002-Medium-Yeast2Human
+RPS9	RPS16	0.04094846732914448	Predicted	I2D-BioGRID-Yeast2Human; Stuart-Kim-2003
+RPL12	RPS15	0.03955605998635292	Predicted	I2D-vonMering-Bork-2002-Medium-Yeast2Human; Stuart-Kim-2003
+RPS4X	RPL19	0.039313238114118576	Predicted	I2D-vonMering-Bork-2002-Medium-Yeast2Human
+RPL18	RPL19	0.039202962070703506	Predicted	I2D-BioGRID-Yeast2Human; Stuart-Kim-2003
+RPL13	RPL19	0.03907681629061699	Predicted	I2D-BioGRID-Yeast2Human; Stuart-Kim-2003
+RPS15	RPLP0	0.03859766013920307	Predicted	I2D-vonMering-Bork-2002-Medium-Yeast2Human; Stuart-Kim-2003
+RPS29	RPL8	0.03781596664339304	Predicted	I2D-vonMering-Bork-2002-Medium-Yeast2Human; Stuart-Kim-2003
+RPS2	RPLP0	0.0375811904668808	Predicted	I2D-vonMering-Bork-2002-Medium-Yeast2Human; Stuart-Kim-2003
+RPL13	RPS18	0.03703738749027252	Predicted	I2D-BioGRID-Yeast2Human; Stuart-Kim-2003
+RPS9	RPS15	0.03691448085010052	Predicted	I2D-BioGRID-Yeast2Human; Stuart-Kim-2003
+RPL19	RPL8	0.03676832281053066	Predicted	I2D-BioGRID-Yeast2Human; I2D-vonMering-Bork-2002-Medium-Yeast2Human
+RPS29	RPS15	0.035873559303581715	Predicted	I2D-vonMering-Bork-2002-Medium-Yeast2Human; Stuart-Kim-2003
+RPS10	RPS18	0.03571701422333717	Predicted	Stuart-Kim-2003
+RPS16	RPL8	0.03480273857712746	Predicted	I2D-BioGRID-Yeast2Human; I2D-vonMering-Bork-2002-Medium-Yeast2Human
+RPS29	RPS2	0.03477064333856106	Predicted	I2D-vonMering-Bork-2002-Medium-Yeast2Human; Stuart-Kim-2003
+RPS15	RPS11	0.034487828612327576	Predicted	I2D-vonMering-Bork-2002-Medium-Yeast2Human; Stuart-Kim-2003
+RPL12	RPS16	0.034360398538410664	Predicted	I2D-BioGRID-Yeast2Human; Stuart-Kim-2003
+RPS16	RPL13	0.034267586655914783	Predicted	I2D-BioGRID-Yeast2Human; Stuart-Kim-2003
+RPL19	RPS19	0.033622559159994125	Predicted	Stuart-Kim-2003
+RPS11	RPS2	0.03348477464169264	Predicted	I2D-vonMering-Bork-2002-Medium-Yeast2Human; Stuart-Kim-2003
+RPS15	RPS17	0.03342951461672783	Predicted	I2D-BioGRID-Yeast2Human; Stuart-Kim-2003
+RPL31	RPL12	0.03233473002910614	Predicted	I2D-BioGRID-Yeast2Human; Stuart-Kim-2003
+RPS16	RPS18	0.032305892556905746	Predicted	Stuart-Kim-2003
+RPL18	RPL31	0.03188851475715637	Predicted	I2D-BioGRID-Yeast2Human; Stuart-Kim-2003
+RPL31	RPL13	0.03155540395528078	Predicted	I2D-BioGRID-Yeast2Human; Stuart-Kim-2003
+RPS16	RPS19	0.03130436688661575	Predicted	Stuart-Kim-2003
+RPS9	RPS10	0.03119463101029396	Predicted	Stuart-Kim-2003
+RPS9	RPL28	0.031024198979139328	Predicted	Stuart-Kim-2003
+RPL37A	RPLP1	0.03072255291044712	Predicted	Stuart-Kim-2003
+RPS16	RPS11	0.030705795623362064	Predicted	I2D-BioGRID-Yeast2Human; Stuart-Kim-2003
+RPS9	RPL19	0.030304858461022377	Predicted	Stuart-Kim-2003
+RPL28	RPL37A	0.030125880613923073	Predicted	Stuart-Kim-2003
+RPS4X	RPL8	0.029552655294537544	Predicted	I2D-BioGRID-Yeast2Human; I2D-vonMering-Bork-2002-Medium-Yeast2Human
+RPL31	RPS15	0.027626153081655502	Predicted	I2D-BioGRID-Yeast2Human
+RPS3A	RPS18	0.027432845905423164	Predicted	I2D-BioGRID-Yeast2Human; Stuart-Kim-2003
+RPS28	RPL37A	0.027168376371264458	Predicted	Stuart-Kim-2003
+RPS3A	RPL19	0.026508552953600883	Predicted	I2D-BioGRID-Yeast2Human; Stuart-Kim-2003
+RPL31	RPLP0	0.02642993815243244	Predicted	I2D-BioGRID-Yeast2Human; Stuart-Kim-2003
+RPS10	RPS17	0.026389066129922867	Predicted	Stuart-Kim-2003
+RPL18	RPS9	0.026378734968602657	Predicted	I2D-BioGRID-Yeast2Human; Stuart-Kim-2003
+RPS4X	RPS3A	0.02628367953002453	Predicted	I2D-BioGRID-Yeast2Human; Stuart-Kim-2003
+RPL28	RPS17	0.026244889944791794	Predicted	Stuart-Kim-2003
+RPS3A	RPS15	0.02619969565421343	Predicted	I2D-BioGRID-Yeast2Human; Stuart-Kim-2003
+RPS18	RPS19	0.0257797259837389	Predicted	Stuart-Kim-2003
+RPS15	RPLP1	0.025711482390761375	Predicted	Stuart-Kim-2003
+RPL8	RPS17	0.025645471177995205	Predicted	I2D-BioGRID-Yeast2Human; Stuart-Kim-2003
+RPL31	RPS18	0.025436559692025185	Predicted	Stuart-Kim-2003
+RPS29	RPLP1	0.02535240538418293	Predicted	Stuart-Kim-2003
+RPL28	RPS15	0.025212133303284645	Predicted	Stuart-Kim-2003
+RPS29	RPL28	0.02486002817749977	Predicted	Stuart-Kim-2003
+RPL18	RPL8	0.024703234434127808	Predicted	I2D-BioGRID-Yeast2Human; Stuart-Kim-2003
+RPL13	RPL8	0.02457977458834648	Predicted	I2D-BioGRID-Yeast2Human; Stuart-Kim-2003
+RPL12	RPS17	0.023847410455346107	Predicted	I2D-BioGRID-Yeast2Human; Stuart-Kim-2003
+RPS10	RPL13	0.023833446204662323	Predicted	Stuart-Kim-2003
+RPS9	RPS11	0.02366580907255411	Predicted	I2D-BioGRID-Yeast2Human; Stuart-Kim-2003
+RPL18	RPS17	0.02357335016131401	Predicted	I2D-BioGRID-Yeast2Human; Stuart-Kim-2003
+RPLP0	EEF2	0.023556584492325783	Predicted	Stuart-Kim-2003
+RPL13	RPS17	0.023397596552968025	Predicted	I2D-BioGRID-Yeast2Human; Stuart-Kim-2003
+RPL12	RPL13	0.023240545764565468	Predicted	I2D-BioGRID-Yeast2Human; Stuart-Kim-2003
+RPL18	RPLP1	0.022929247468709946	Predicted	Stuart-Kim-2003
+RPS25	RPL28	0.022928882390260696	Predicted	Stuart-Kim-2003
+RPL18	RPL13	0.02288731187582016	Predicted	I2D-BioGRID-Yeast2Human; Stuart-Kim-2003
+RPS9	RPS19	0.022515572607517242	Predicted	Stuart-Kim-2003
+RPL18	RPL28	0.022483931854367256	Predicted	Stuart-Kim-2003
+RPS28	RPS29	0.022419480606913567	Predicted	Stuart-Kim-2003
+RPS3A	RPL31	0.022355044726282358	Predicted	I2D-BioGRID-Yeast2Human; Stuart-Kim-2003
+RPL31	RPS9	0.022215858101844788	Predicted	Stuart-Kim-2003
+RPS15	RPS18	0.022097615525126457	Predicted	I2D-vonMering-Bork-2002-Medium-Yeast2Human
+RPL12	RPLP1	0.022076256573200226	Predicted	Stuart-Kim-2003
+RPS2	RPS18	0.021660029888153076	Predicted	I2D-vonMering-Bork-2002-Medium-Yeast2Human
+RPL12	RPL28	0.021647505462169647	Predicted	Stuart-Kim-2003
+RPL31	RPL37A	0.02157258614897728	Predicted	Stuart-Kim-2003
+RPS9	RPLP0	0.02153061330318451	Predicted	I2D-BioGRID-Yeast2Human; Stuart-Kim-2003
+RPS4X	RPS15	0.021246738731861115	Predicted	I2D-vonMering-Bork-2002-Medium-Yeast2Human
+RPL12	RPS11	0.02124269027262926	Predicted	I2D-BioGRID-Yeast2Human; Stuart-Kim-2003
+RPL12	RPL19	0.02114557847380638	Predicted	Stuart-Kim-2003
+RPS11	RPS17	0.021141769364476204	Predicted	I2D-BioGRID-Yeast2Human; Stuart-Kim-2003
+RPS4X	RPS2	0.020826002582907677	Predicted	I2D-vonMering-Bork-2002-Medium-Yeast2Human
+RPS28	RPS25	0.020677918568253517	Predicted	Stuart-Kim-2003
+RPS11	RPLP1	0.02067483216524124	Predicted	Stuart-Kim-2003
+RPL13	RPS11	0.02051787730306387	Predicted	I2D-BioGRID-Yeast2Human; Stuart-Kim-2003
+RPS10	RPS11	0.020384671166539192	Predicted	Stuart-Kim-2003
+RPL18	RPS28	0.020276648923754692	Predicted	Stuart-Kim-2003
+RPL28	RPS11	0.020273301750421524	Predicted	Stuart-Kim-2003
+RPL12	RPLP0	0.02006218023598194	Predicted	I2D-BioGRID-Yeast2Human; Stuart-Kim-2003
+RPS9	RPL37A	0.019706234335899353	Predicted	Stuart-Kim-2003
+RPL18	RPLP0	0.019550698809325695	Predicted	I2D-BioGRID-Yeast2Human; Stuart-Kim-2003
+RPS28	RPL12	0.01952233724296093	Predicted	Stuart-Kim-2003
+RPS9	RPS18	0.019319063052535057	Predicted	I2D-BioGRID-Yeast2Human
+RPL13	RPLP0	0.01904591079801321	Predicted	I2D-BioGRID-Yeast2Human; Stuart-Kim-2003
+RPS16	RPL19	0.01880868710577488	Predicted	I2D-BioGRID-Yeast2Human
+RPS9	RPL8	0.018631761893630028	Predicted	Stuart-Kim-2003
+RPS29	RPS18	0.018619190901517868	Predicted	Stuart-Kim-2003
+RPL31	EEF1A1	0.018323488533496857	Predicted	Stuart-Kim-2003
+RPS15	RPS19	0.018297508358955383	Predicted	Stuart-Kim-2003
+RPS28	RPS11	0.018283039331436157	Predicted	Stuart-Kim-2003
+RPL37A	RPL8	0.01809227280318737	Predicted	Stuart-Kim-2003
+RPS3A	RPS9	0.01786872372031212	Predicted	I2D-BioGRID-Yeast2Human; Stuart-Kim-2003
+RPL31	RPS29	0.017801806330680847	Predicted	Stuart-Kim-2003
+RPS11	RPLP0	0.0175059475004673	Predicted	I2D-BioGRID-Yeast2Human; Stuart-Kim-2003
+RPS3A	RPL12	0.017390440683811903	Predicted	I2D-BioGRID-Yeast2Human; Stuart-Kim-2003
+RPL31	RPS16	0.017224417999386787	Predicted	I2D-BioGRID-Yeast2Human
+RPL13	RPS19	0.017202436923980713	Predicted	Stuart-Kim-2003
+RPS3A	RPL8	0.016855179332196712	Predicted	I2D-BioGRID-Yeast2Human; Stuart-Kim-2003
+RPL18	RPS3A	0.016805503517389297	Predicted	I2D-BioGRID-Yeast2Human; Stuart-Kim-2003
+RPS25	RPS19	0.01664045639336109	Predicted	Stuart-Kim-2003
+RPL31	RPS25	0.016418948769569397	Predicted	Stuart-Kim-2003
+RPL18	RPS19	0.016317538917064667	Predicted	Stuart-Kim-2003
+RPLP1	RPLP0	0.01628505252301693	Predicted	Stuart-Kim-2003
+RPS3A	RPS17	0.016283441800624132	Predicted	I2D-BioGRID-Yeast2Human; Stuart-Kim-2003
+RPS9	RPS29	0.016261683776974678	Predicted	Stuart-Kim-2003
+RPL12	RPS18	0.01621313765645027	Predicted	Stuart-Kim-2003
+RPS3A	RPL13	0.016188062261790037	Predicted	I2D-BioGRID-Yeast2Human; Stuart-Kim-2003
+RPS15	RPL37A	0.016014471650123596	Predicted	Stuart-Kim-2003
+RPL28	RPLP0	0.015968773514032364	Predicted	Stuart-Kim-2003
+RPS3A	EEF2	0.01587696373462677	Predicted	Stuart-Kim-2003
+RPS29	RPL37A	0.015790818259119987	Predicted	Stuart-Kim-2003
+RPS9	RPL13	0.01550498977303505	Predicted	Stuart-Kim-2003
+RPL8	EEF1A1	0.015367351472377777	Predicted	Stuart-Kim-2003
+RPL37A	RPS2	0.015221665613353252	Predicted	Stuart-Kim-2003
+RPL19	RPS17	0.015214022248983383	Predicted	I2D-BioGRID-Yeast2Human
+RPL13	RPL37A	0.015056034550070763	Predicted	Stuart-Kim-2003
+RPS3A	RPS11	0.015033496543765068	Predicted	I2D-BioGRID-Yeast2Human; Stuart-Kim-2003
+RPS25	RPS9	0.014998462982475758	Predicted	Stuart-Kim-2003
+RPS3A	RPLP0	0.014739059144631028	Predicted	I2D-BioGRID-Yeast2Human; Stuart-Kim-2003
+RPS11	RPS19	0.01471319142729044	Predicted	Stuart-Kim-2003
+RPS25	RPL37A	0.014564176090061665	Predicted	Stuart-Kim-2003
+RPL31	RPS11	0.014517337083816528	Predicted	Stuart-Kim-2003
+RPS28	RPLP0	0.014401094056665897	Predicted	Stuart-Kim-2003
+RPL18	RPL37A	0.01428154855966568	Predicted	Stuart-Kim-2003
+RPL31	RPL8	0.01401857752352953	Predicted	I2D-BioGRID-Yeast2Human
+RPL31	RPS17	0.013932534493505955	Predicted	I2D-BioGRID-Yeast2Human
+RPS25	RPL8	0.013770071789622307	Predicted	Stuart-Kim-2003
+RPS29	RPS17	0.013756554573774338	Predicted	Stuart-Kim-2003
+RPL12	RPL37A	0.013750260695815086	Predicted	Stuart-Kim-2003
+RPS2	RPS17	0.01326072309166193	Predicted	Stuart-Kim-2003
+RPS16	RPLP0	0.013070355169475079	Predicted	I2D-BioGRID-Yeast2Human
+RPS2	EEF1A1	0.012929094024002552	Predicted	Stuart-Kim-2003
+RPS11	RPL37A	0.012877379544079304	Predicted	Stuart-Kim-2003
+RPL13	EEF1A1	0.012788410298526287	Predicted	Stuart-Kim-2003
+RPS3A	RPS16	0.012767878361046314	Predicted	I2D-BioGRID-Yeast2Human
+RPS9	RPL12	0.012443957850337029	Predicted	I2D-BioGRID-Yeast2Human
+RPL13	RPS29	0.012424316257238388	Predicted	Stuart-Kim-2003
+RPS25	RPS15	0.012188653461635113	Predicted	Stuart-Kim-2003
+RPS16	RPS17	0.01214426290243864	Predicted	I2D-BioGRID-Yeast2Human
+RPL18	EEF1A1	0.012130570597946644	Predicted	Stuart-Kim-2003
+RPS25	RPS29	0.012018430978059769	Predicted	Stuart-Kim-2003
+RPL13	RPS2	0.011976501904428005	Predicted	Stuart-Kim-2003
+RPL18	RPS15	0.01195212546736002	Predicted	Stuart-Kim-2003
+RPL18	RPS29	0.011785206384956837	Predicted	Stuart-Kim-2003
+RPL12	EEF1A1	0.011679301969707012	Predicted	Stuart-Kim-2003
+RPLP0	RPS19	0.011589213274419308	Predicted	Stuart-Kim-2003
+RPS25	RPS2	0.01158524677157402	Predicted	Stuart-Kim-2003
+RPL18	RPS2	0.011360427364706993	Predicted	Stuart-Kim-2003
+RPL12	RPS29	0.011346784420311451	Predicted	Stuart-Kim-2003
+HSP90AB1	GAPDH	0.011312316171824932	Predicted	I2D-BioGRID-Yeast2Human
+RPS3A	RPLP1	0.010976002551615238	Predicted	Stuart-Kim-2003
+RPS11	EEF1A1	0.010937887243926525	Predicted	Stuart-Kim-2003
+RPL18	RPS25	0.010869721882045269	Predicted	Stuart-Kim-2003
+RPS3A	RPS10	0.010821959935128689	Predicted	Stuart-Kim-2003
+RPS3A	RPL28	0.01076283399015665	Predicted	Stuart-Kim-2003
+RPS29	RPS11	0.010626479052007198	Predicted	Stuart-Kim-2003
+RPS25	RPL12	0.010465357452630997	Predicted	Stuart-Kim-2003
+RPS9	RPS17	0.010299545712769032	Predicted	I2D-BioGRID-Yeast2Human
+RPL18	RPL12	0.010262270458042622	Predicted	Stuart-Kim-2003
+RPL37A	RPLP0	0.010143190622329712	Predicted	Stuart-Kim-2003
+RPS4X	RPS16	0.009942904114723206	Predicted	I2D-BioGRID-Yeast2Human
+RPS25	RPS11	0.009801005944609642	Predicted	Stuart-Kim-2003
+RPS4X	RPL12	0.00971715897321701	Predicted	I2D-BioGRID-Yeast2Human
+RPL18	RPS11	0.009610810317099094	Predicted	Stuart-Kim-2003
+RPS4X	RPL18	0.009113830514252186	Predicted	I2D-BioGRID-Yeast2Human
+RPS4X	RPS9	0.008432573638856411	Predicted	I2D-BioGRID-Yeast2Human
+RPS4X	RPL13	0.008417526260018349	Predicted	I2D-BioGRID-Yeast2Human
+RPS29	RPLP0	0.008370212279260159	Predicted	Stuart-Kim-2003
+RPS4X	RPS17	0.00804264284670353	Predicted	I2D-BioGRID-Yeast2Human
+RPS3A	RPS19	0.007811043411493301	Predicted	Stuart-Kim-2003
+RPS25	RPLP0	0.007720007561147213	Predicted	Stuart-Kim-2003
+RPS3A	RPL37A	0.006836435291916132	Predicted	Stuart-Kim-2003
+RPS3A	EEF1A1	0.005806783214211464	Predicted	Stuart-Kim-2003
+RPS3A	RPS29	0.005641460884362459	Predicted	Stuart-Kim-2003
+RPS3A	RPS2	0.0054381238296628	Predicted	Stuart-Kim-2003
+RPS3A	RPS25	0.005203227512538433	Predicted	Stuart-Kim-2003
+RPL18	HSP90AB1	0.004878015723079443	Predicted	I2D-BioGRID-Yeast2Human
+RPLP1	RPLP0	0.6435917317867279	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+LDHA	LDHB	0.2766895145177841	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+RPS4X	RPS9	0.2230217009782791	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+KIT	FGFR3	0.0606963112950325	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+EEF2	EEF1A1	0.049450717866420746	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+ESR1	ESR2	0.044550696387887	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+RPS16	RPS2	0.037564635276794434	Shared&nbsp;protein&nbsp;domains	INTERPRO
+RPS16	HSP90AB1	0.023812634870409966	Shared&nbsp;protein&nbsp;domains	INTERPRO
+RPS2	HSP90AB1	0.022583967074751854	Shared&nbsp;protein&nbsp;domains	INTERPRO
+RPS28	RPS11	0.01608375832438469	Shared&nbsp;protein&nbsp;domains	INTERPRO
+RPS11	RPL8	0.014086897484958172	Shared&nbsp;protein&nbsp;domains	INTERPRO
+RPS16	EEF2	0.01402288954705	Shared&nbsp;protein&nbsp;domains	INTERPRO
+RPS28	RPL8	0.013751896098256111	Shared&nbsp;protein&nbsp;domains	INTERPRO
+RPS2	EEF2	0.01329934224486351	Shared&nbsp;protein&nbsp;domains	INTERPRO
+FN1	ATF7IP	0.010687258094549179	Shared&nbsp;protein&nbsp;domains	INTERPRO
+HSP90AB1	EEF2	0.008430586196482182	Shared&nbsp;protein&nbsp;domains	INTERPRO
+STK10	STK11	0.008029177784919739	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
